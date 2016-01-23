@@ -11,13 +11,14 @@
         </TMPL_IF>
     </head>
     <body>
-        <div background="#DD4814" id="header">
+        <div style="background-color: #DD4814;" id="header">
             <div id="orangeHeader">
                 <h1>
                     <a href="http://planet.ubuntu.com/" title="<TMPL_VAR name ESCAPE="HTML">"><span style="color: white;"><TMPL_VAR name></span></a>
                 </h1>
             </div>
         </div>
+        <hr style="height:6px;border:none;color:#333;background-color:#333;" />
     <TMPL_VAR admin>
         <TMPL_LOOP Items>
             <TMPL_IF new_date>
