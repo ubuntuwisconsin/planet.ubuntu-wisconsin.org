@@ -12,21 +12,18 @@
     </head>
     <body>
         <div id="header">
-        <div id="orangeHeader">
-        	<h1>
-        		<a href="http://planet.ubuntu.com/" title="Planet Ubuntu"><span>Planet Ubuntu</span></a>
-        	</h1>
+            <div id="orangeHeader">
+                <h1>
+                    <a href="http://planet.ubuntu.com/" title="<TMPL_VAR name ESCAPE="HTML">"><span><TMPL_VAR name></span></a>
+                </h1>
+            </div>
         </div>
-        </div>
-        <h1><TMPL_VAR name></h1>
     <TMPL_VAR admin>
         <TMPL_LOOP Items>
             <TMPL_IF new_date>
                 <TMPL_UNLESS __FIRST__>
-                    <div class="channelgroup">
-                    </div>
-                    <div class="daygroup">
-                    </div>
+                    <div class="channelgroup"></div>
+                    <div class="daygroup"></div>
                 </TMPL_UNLESS>
                 <div class="daygroup">
                     <h2><TMPL_VAR new_date></h2>
