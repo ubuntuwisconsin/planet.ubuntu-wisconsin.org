@@ -148,3 +148,7 @@ a:hover {
 	text-decoration: underline !important;
 	color: blue !important;
 }
+
+p {
+	font-family: "Ubuntu", sans-serif;
+}
