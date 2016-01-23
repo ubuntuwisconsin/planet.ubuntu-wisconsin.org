@@ -36,7 +36,9 @@
                 <TMPL_IF title>
                     <h4><TMPL_IF title_language> lang="<TMPL_VAR title_language>"</TMPL_IF>><a href="<TMPL_VAR link ESCAPE="HTML">"><TMPL_VAR title></a></h4>
                 </TMPL_IF>
-                <TMPL_VAR content>
+                <div class="entry">
+                    <div class="content"<TMPL_IF content_language> lang="<TMPL_VAR content_language>"</TMPL_IF>>
+                        <TMPL_VAR content>
                     </div>
                     <p class="date">
                         <a href="<TMPL_VAR link ESCAPE="HTML">"><TMPL_IF author>by <TMPL_VAR author ESCAPE="HTML"> at </TMPL_IF><TMPL_VAR date><TMPL_IF category> under <TMPL_VAR category></TMPL_IF></a>
