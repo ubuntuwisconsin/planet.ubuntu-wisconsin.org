@@ -10,7 +10,7 @@ h1 {
 	margin-top: 0px;
 	padding-top: 20px;
 
-	font-family: "Bitstream Vera Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-weight: normal;
 	letter-spacing: -2px;
 	text-transform: lowercase;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-	font-family: "Bitstream Vera Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-weight: normal;
 	color: #200080;
 
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-	font-family: "Bitstream Vera Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-weight: normal;
 
 	background-color: #a0c0ff;
@@ -47,7 +47,7 @@ h3 a {
 }
 
 h4 {
-	font-family: "Bitstream Vera Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-weight: bold;
 }
 
@@ -66,7 +66,7 @@ img.face {
 }
 
 .entry .date {
-	font-family: "Bitstream Vera Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	color: grey;
 }
 
@@ -88,7 +88,7 @@ img.face {
 	padding-top: 20px;
 	padding-left: 0px;
 
-	font-family: "Bitstream Vera Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-size: 85%;
 }
 
