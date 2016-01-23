@@ -9,6 +9,25 @@
         <TMPL_IF feedtype>
             <link rel="alternate" href="<TMPL_VAR feed ESCAPE="HTML">" title="<TMPL_VAR channel_title_plain ESCAPE="HTML">" type="application/<TMPL_VAR feedtype>+xml">
         </TMPL_IF>
+        <style>
+        #page {
+            margin-left: 200px;
+        }
+        #main {
+            float: right;
+            width: 100%;
+            background-color: #F0F0F0;
+        }
+        #menu {
+            float: left;
+            width: 200px;
+            margin-left: -200px;
+            background-color: #CCCCCC;
+        }
+        #clearingdiv {
+            clear: both;
+        }
+        </style>
     </head>
     <body>
         <div style="background-color: #DD4814;" id="header">
@@ -19,6 +38,8 @@
             </div>
         </div>
         <hr style="height:6px;border:none;color:#333;background-color:#333;" />
+    <div id="page">
+    <div id="main">
     <TMPL_VAR admin>
         <TMPL_LOOP Items>
             <TMPL_IF new_date>
@@ -61,14 +82,7 @@
                                                 </div>
                                             </TMPL_IF>
                                         </TMPL_LOOP>
-                                        <p>
-                                            <strong>Last updated:</strong><br>
-                                            <TMPL_VAR date><br />
-                                            <em>All times are UTC.</em><br>
-                                            <br>
-                                            Powered by:<br>
-                                            <a href="http://www.planetplanet.org/"><img src="images/planet.png" width="80" height="15" alt="Planet" border="0"></a>
-                                        </p>
+        </div>
         <div id="menu">
             <p>
                 <a style="color: blue;" href="http://ubuntu-wisconsin.org/blog/">Ubuntu US Wisconsin LoCo Team Blog</a>
@@ -87,5 +101,15 @@
                 <img href="http://cheesehead-techblog.blogspot.com/feeds/posts/default" src="http://imfreshfromtheoven.com/wp-content/plugins/social-accounts/images/icons16/rss.png" />
             </p>
         </div>
+    </div>
+    <div id="clearingdiv"></div>
+    <p>
+        <strong>Last updated:</strong><br>
+        <TMPL_VAR date><br />
+        <em>All times are UTC.</em><br>
+        <br>
+        Powered by:<br>
+        <a href="http://www.planetplanet.org/"><img src="images/planet.png" width="80" height="15" alt="Planet" border="0"></a>
+    </p>
     </body>
 </html>
