@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planet Ubuntu - Wisconsin Edition</title>
-  <updated>2016-02-02T18:45:33Z</updated>
+  <updated>2016-02-02T18:51:57Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Simon Quigley</name>
@@ -87,7 +87,7 @@
       <link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml"/>
       <subtitle>The official blog for the Ubuntu US Wisconsin LoCo Team</subtitle>
       <title>Ubuntu US Wisconsin LoCo Team Blog</title>
-      <updated>2016-02-02T18:45:19Z</updated>
+      <updated>2016-02-02T18:51:53Z</updated>
     </source>
   </entry>
 
@@ -171,7 +171,7 @@
       <link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml"/>
       <subtitle>The official blog for the Ubuntu US Wisconsin LoCo Team</subtitle>
       <title>Ubuntu US Wisconsin LoCo Team Blog</title>
-      <updated>2016-02-02T18:45:19Z</updated>
+      <updated>2016-02-02T18:51:53Z</updated>
     </source>
   </entry>
 
@@ -264,7 +264,7 @@
       <link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml"/>
       <subtitle>The official blog for the Ubuntu US Wisconsin LoCo Team</subtitle>
       <title>Ubuntu US Wisconsin LoCo Team Blog</title>
-      <updated>2016-02-02T18:45:19Z</updated>
+      <updated>2016-02-02T18:51:53Z</updated>
     </source>
   </entry>
 
