@@ -5,12 +5,12 @@
     <foaf:homepage/>
     <foaf:member>
       <foaf:Agent>
-        <foaf:name>Ian Weisser</foaf:name>
+        <foaf:name>Ubuntu US Wisconsin LoCo Team Blog</foaf:name>
         <foaf:weblog>
-          <foaf:Document rdf:about="http://cheesehead-techblog.blogspot.com/">
-            <dc:title>Ian's TechBlog</dc:title>
+          <foaf:Document rdf:about="http://ubuntu-wisconsin.org/blog/">
+            <dc:title>Ubuntu US Wisconsin LoCo Team Blog</dc:title>
             <rdfs:seeAlso>
-              <rss:channel rdf:about="http://www.blogger.com/feeds/2703060415027607989/posts/default"/>
+              <rss:channel rdf:about="http://ubuntu-wisconsin.org/blog/feed"/>
             </rdfs:seeAlso>
           </foaf:Document>
         </foaf:weblog>
@@ -24,6 +24,32 @@
             <dc:title>this is the hook</dc:title>
             <rdfs:seeAlso>
               <rss:channel rdf:about="http://anthonyrhook.com/feed/"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Mike Putnam</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="">
+            <dc:title>Mike Putnam</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://theputnams.net/mike/feed"/>
+            </rdfs:seeAlso>
+          </foaf:Document>
+        </foaf:weblog>
+      </foaf:Agent>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Agent>
+        <foaf:name>Ian Weisser</foaf:name>
+        <foaf:weblog>
+          <foaf:Document rdf:about="http://cheesehead-techblog.blogspot.com/">
+            <dc:title>Ian's TechBlog</dc:title>
+            <rdfs:seeAlso>
+              <rss:channel rdf:about="http://www.blogger.com/feeds/2703060415027607989/posts/default"/>
             </rdfs:seeAlso>
           </foaf:Document>
         </foaf:weblog>

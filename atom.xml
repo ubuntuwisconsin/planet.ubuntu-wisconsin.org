@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:planet="http://planet.intertwingly.net/" xmlns:indexing="urn:atom-extension:indexing" indexing:index="no"><access:restriction xmlns:access="http://www.bloglines.com/about/specs/fac-1.0" relationship="deny"/>
   <title>Planet Ubuntu - Wisconsin Edition</title>
-  <updated>2016-01-23T01:57:09Z</updated>
+  <updated>2016-02-02T18:45:33Z</updated>
   <generator uri="http://intertwingly.net/code/venus/">Venus</generator>
   <author>
     <name>Simon Quigley</name>
@@ -10,6 +10,263 @@
   <id>http://planet.ubuntu-wisconsin.org/atom.xml</id>
   <link href="http://planet.ubuntu-wisconsin.org/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://planet.ubuntu-wisconsin.org/" rel="alternate"/>
+
+  <entry>
+    <id>http://ubuntu-wisconsin.org/blog/2016/01/27/</id>
+    <link href="http://ubuntu-wisconsin.org/blog/2016/01/27/" rel="alternate" type="text/html"/>
+    <title>About our Mailing List</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><h3>Post by Simon Quigley (tsimonq2)</h3>
+                    <p>
+                        Instead of having our mailing list through Ubuntu Lists, we have it through Launchpad.
+                        There are a lot of advantages to having this setup, but before I outline those, I would like to explain what goes on the mailing list.
+                        Every week, I forward the Ubuntu Weekly Newsletter on to the mailing list with a quick little comment about our recent blog post like I am probably going to do soon.
+                        I also forward the Kernel Team newsletter on, although before I started doing this, I sent an email to the list explaining this. This might change in the future.
+                        Along with the newsletters, I send details about our next meeting 2 weeks and 24 hours(to clear up confusion, two seperate emails, one 2 weeks before and one 24 hours before) before our next monthly meeting describing the details such as the agenda and general encouragement to participate.
+                        I will make a blog post next week describing our monthly meeting process, because next week is when I do the prep either way.
+                        Also, if members have questions about the LoCo, this is the place to ask them and get feedback, such as the planning for our Xenial Xerus release party.
+                    </p>
+                    <br/>
+                    <p>
+                        Here are the advantages and disadvantages of using Launchpad for our mailing list:
+                    </p>
+                    <br/>
+                    <p>
+                        <b>Advantages:</b>
+                    </p>
+                    <ul>
+                        <li>
+                            When a new member joins the team, they already have a Launchpad account, and it is easy to subscribe
+                        </li>
+                        <li>
+                            When a new member joins the Launchpad team, they can subscribe to the mailing list while joining
+                        </li>
+                        <li>
+                            The archives are organized well, with many useful features for viewing them
+                        </li>
+                        <li>
+                            I can see who is subscribed and how many members, with links to their Launchpad pages
+                        </li>
+                        <li>
+                            I can easily view scrubbed HTML attachments
+                        </li>
+                    </ul>
+                    <p>
+                        <b>Disadvantages:</b>
+                    </p>
+                    <ul>
+                        <li>
+                            It is not on an *.ubuntu.com domain
+                        </li>
+                        <li>
+                            The mailing list archives can be a bit slow to show up on the page for this, although it has gotten better and it is being addressed
+                        </li>
+                        <li>
+                            This isn't necessarily traditional for a LoCo to do, as far as I know
+                        </li>
+                        <li>
+                            It isn't approved by the LoCo Council (yet)
+                        </li>
+                    </ul>
+                    <p>
+                        Although it has it's downsides, using Launchpad for our mailing list has been very smooth for us and the advantages outweigh the disadvantages, in my honest opinion.
+                        So we will continue to use it.
+                    </p>
+                    <br/>
+                    <p>
+                        This concludes the blog post about our wiki page. If you have any questions/comments/concerns about this blog post or the mailing list, please contact Simon Quigley or stop by #ubuntu-us-wi on Freenode.
+                    </p></div>
+    </summary>
+    <updated>2016-01-27T20:00:00Z</updated>
+    <author>
+      <name>Simon Quigley</name>
+      <email>sqawesome99@gmail.com</email>
+    </author>
+    <source>
+      <id>http://ubuntu-wisconsin.org/blog/</id>
+      <link href="http://ubuntu-wisconsin.org/blog/" rel="alternate" type="text/html"/>
+      <link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml"/>
+      <subtitle>The official blog for the Ubuntu US Wisconsin LoCo Team</subtitle>
+      <title>Ubuntu US Wisconsin LoCo Team Blog</title>
+      <updated>2016-02-02T18:45:19Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>http://ubuntu-wisconsin.org/blog/2016/01/20/</id>
+    <link href="http://ubuntu-wisconsin.org/blog/2016/01/20/" rel="alternate" type="text/html"/>
+    <title>Tour of our Wiki Page</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><h3>Post by Simon Quigley (tsimonq2)</h3>
+                    <p>
+                        We have set up a wiki page for existing members to use as a resource for doing LoCo related tasks.
+                        This blog post is a walkthrough of the wiki page, and the resources we have in place.
+                    </p>
+                    <h2>
+                        <a href="https://wiki.ubuntu.com/WisconsinTeam" style="color: blue;">The main page</a>
+                    </h2>
+                    <p>
+                        On the very top of the page are details about our next IRC and monthly meetings.
+                        We also have other pages listed that I will describe in a bit.
+                        In addition, we have brief information about our Local Community team.
+                        <br/>
+                        <br/>
+                        After the top part, we have the <b>Joining</b>, <b>Events</b>, and <b>Meetings</b> headers.
+                        Under the <b>Joining</b> header, we have a link to our NewMemberOrientation page, which I will describe in a bit.
+                        Under the <b>Events</b> header, we have a link to the LoCo Portal that has our upcoming events.
+                        At the time of writing this, we don't have any upcoming events, but once we do, it will go on the wiki page under his header.
+                        Under the <b>Meetings</b> header, we have a link to the LoCo Portal that has our upcoming meetings.
+                        A blog post will be written describing our meetings in the future, although if you would like to check that out and discover yourself, go ahead.
+                        <br/>
+                        <br/>
+                        The final header on the wiki page is <b>Communication</b>.
+                        This section has some useful resources that are occasionally used by our members.
+                        It will get a little revamping after Alex finishes making some orange badges for Reddit and such.
+                    </p>
+                    <h2>
+                        <a href="https://wiki.ubuntu.com/WisconsinTeam/MeetingAgendas" style="color: blue;">MeetingAgendas</a>
+                    </h2>
+                    <p>
+                        On this page, we have Meeting Agendas.
+                        Every monthly meeting we have, the meeting chair (usually myself) updates this page.
+                        It just has the agendas, which will be explained in a future blog post.
+                        Also, whenever we have a successful IRC meeting, the IRC logs go here.
+                    </p>
+                    <h2>
+                        <a href="https://wiki.ubuntu.com/WisconsinTeam/NewMemberOrientation" style="color: blue;">NewMemberOrientation</a>
+                    </h2>
+                    <p>
+                        This page is our (lowercase c) canonical resource for getting people started with our team.
+                        It provides all of the information needed to be considered an official member.
+                        It does need a bit of revising to strengthen the language and clarity (if you, the reader, feel inclined to take a look, by all means, go ahead), but this is the most solid resource we have.
+                    </p>
+                    <h2>
+                        <a href="https://wiki.ubuntu.com/WisconsinTeam/QuickStart" style="color: blue;">QuickStart</a>
+                    </h2>
+                    <p>
+                        This is currently a bare page, with a lot of work needed.
+                        It is a huge concept I am working on with Alex.
+                        More information to come.
+                    </p>
+                    <h2>
+                        <a href="https://wiki.ubuntu.com/WisconsinTeam/TeamReports" style="color: blue;">TeamReports</a>
+                    </h2>
+                    <p>
+                        This page is out of date.
+                        We plan on keeping our team reports here, but since we haven't really had any major meetings besides the monthly meeting and some IRC meetings that more than just 2 people attend, it isn't large enough yet to make a good team report.
+                        This will change in the future.
+                    </p>
+                    <br/>
+                    <p>
+                        This concludes the walkthrough of our wiki page.
+                        If you have any questions/comments/concerns about this article or the wiki page, please contact tsimonq2 on Freenode or stop by #ubuntu-us-wi.
+                    </p></div>
+    </summary>
+    <updated>2016-01-21T01:00:00Z</updated>
+    <author>
+      <name>Simon Quigley</name>
+      <email>sqawesome99@gmail.com</email>
+    </author>
+    <source>
+      <id>http://ubuntu-wisconsin.org/blog/</id>
+      <link href="http://ubuntu-wisconsin.org/blog/" rel="alternate" type="text/html"/>
+      <link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml"/>
+      <subtitle>The official blog for the Ubuntu US Wisconsin LoCo Team</subtitle>
+      <title>Ubuntu US Wisconsin LoCo Team Blog</title>
+      <updated>2016-02-02T18:45:19Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>http://ubuntu-wisconsin.org/blog/2016/01/15/</id>
+    <link href="http://ubuntu-wisconsin.org/blog/2016/01/15/" rel="alternate" type="text/html"/>
+    <title>About the Ubuntu US Wisconsin Local Community Team</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><h3>Post by Simon Quigley (tsimonq2)</h3>
+                    <p>
+                        This first blog post on behalf of the Ubuntu US Wisconsin LoCo Team is to explain some items about the team in general.
+                        If you have any questions/comments/concerns about any of this, please contact tsimonq2 on IRC or stop by #ubuntu-us-wi on Freenode.
+                    </p>
+                    <h2>
+                        Who leads the LoCo?
+                    </h2>
+                    <p>
+                        Simon Quigley is the main coordinator, contact, and facilitative leader for the team.
+                        Until the team grows a bit, he does the planning and execution of meetings and events for the team.
+                        He was appointed the position from Anthony Hook, the previous leader, in mid-November 2015.
+                    </p>
+                    <h2>
+                        How many active members do you have?
+                    </h2>
+                    <p>
+                        In Launchpad, we have 21 members.
+                        We have about 5-10 members who are very active, and a couple more who occasionally respond to threads on our Mailing List.
+                        When a new member joins, they get a one year term, and then they have to renew. This helps eliminate anyone who isn't active any more.
+                        A lot of the members were already there since the last bit of activity in 2012, but have stuck around.
+                    </p>
+                    <h2>
+                        What do you use for a mailing list?
+                    </h2>
+                    <p>
+                        Instead of using Ubuntu Mailing Lists, we use the Launchpad mailing list system.
+                        This makes it much easier for new members to join the mailing list after joining the LoCo.
+                        It is also easy to find if you can find our Launchpad page link.
+                    </p>
+                    <h2>
+                        Are you on the Ubuntu Forums?
+                    </h2>
+                    <p>
+                        We had a forum, but we voted to no longer use it due to the inactivity.
+                        Since we have a few Reddit experts in our team, we decided to use Reddit in place of that.
+                        Our subreddit is <a href="https://www.reddit.com/r/ubuntuwisconsinloco" style="color: blue;">/r/ubuntuwisconsinloco</a>.
+                    </p>
+                    <h2>
+                        What other resources do you have established?
+                    </h2>
+                    <p>
+                        </p><ul>
+                            <li><a href="https://wiki.ubuntu.com/WisconsinTeam" style="color: blue;">Wiki Page</a> - meant as a base for already existing members</li>
+                            <li><a href="https://launchpad.net/~ubuntu-us-wisconsin" style="color: blue;">Launchpad</a></li>
+                            <li><a href="http://ubuntu-wisconsin.org/" style="color: blue;">ubuntu-wisconsin.org</a> - The site you are currently on, a major work in progress, blog post to come</li>
+                            <li><a href="https://lists.launchpad.net/ubuntu-us-wisconsin/" style="color: blue;">Mailing list</a> - Team coordination</li>
+                            <li><a href="https://www.reddit.com/r/ubuntuwisconsinloco" style="color: blue;">Subreddit</a> - Non-LoCo-specific content for the LoCo, such as a trick that someone found, or a discussion about a piece of default software in Ubuntu</li>
+                        </ul>
+                    <p/>
+                    <h2>
+                        Are these approved by the LoCo Council?
+                    </h2>
+                    <p>
+                        At the time of writing this, we are still waiting for feedback from the LoCo Council to see if our resources can be officially recognized, in order to be able to become verified.
+                    </p>
+                    <h2>
+                        What other people help with the LoCo?
+                    </h2>
+                    <p>
+                        <b>Alex Dueppen (adueppen)</b> - Head of Graphic Design, Head of Reddit Operations.
+                        The LoCo would be a lot different if it weren't for his many hours of dedication to this team.
+                        <br/>
+                        <b>Anthony Hook (h00k)</b> - Former LoCo Leader.
+                        Anthony has been essential for helping the LoCo start up again.
+                        Also, he spent a lot of valuable time with this LoCo before it was in the possession of Simon Quigley.
+                        This LoCo would most likely not exist without his help.
+                        <br/>
+                        <b>Mike Putnam (mikeputnam)</b> - LUG Coordinator.
+                        Mike makes sure that scheduling is fine, and that it doesn't conflict with any other Linux events around the state.
+                        He also fills in for Simon when Simon isn't available (which is rare).
+                        He has provided a lot of valuable help to this team.
+                    </p></div>
+    </summary>
+    <updated>2016-01-16T03:00:00Z</updated>
+    <author>
+      <name>Simon Quigley</name>
+      <email>sqawesome99@gmail.com</email>
+    </author>
+    <source>
+      <id>http://ubuntu-wisconsin.org/blog/</id>
+      <link href="http://ubuntu-wisconsin.org/blog/" rel="alternate" type="text/html"/>
+      <link href="http://ubuntu-wisconsin.org/blog/feed" rel="self" type="application/rss+xml"/>
+      <subtitle>The official blog for the Ubuntu US Wisconsin LoCo Team</subtitle>
+      <title>Ubuntu US Wisconsin LoCo Team Blog</title>
+      <updated>2016-02-02T18:45:19Z</updated>
+    </source>
+  </entry>
 
   <entry>
     <id>tag:blogger.com,1999:blog-2703060415027607989.post-7286433965252748885</id>
@@ -471,7 +728,7 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
     </source>
   </entry>
 
@@ -492,7 +749,7 @@
       <link href="http://anthonyrhook.com" rel="alternate" type="text/html"/>
       <subtitle>death before decaf</subtitle>
       <title>this is the hook</title>
-      <updated>2016-01-23T01:51:44Z</updated>
+      <updated>2016-02-02T18:34:51Z</updated>
     </source>
   </entry>
 
@@ -956,7 +1213,7 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
     </source>
   </entry>
 
@@ -1420,7 +1677,7 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
     </source>
   </entry>
 
@@ -1884,7 +2141,7 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
     </source>
   </entry>
 
@@ -2352,7 +2609,7 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
     </source>
   </entry>
 
@@ -2820,7 +3077,7 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
     </source>
   </entry>
 
@@ -3284,7 +3541,24 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>http://theputnams.net/mike/2015-06-30-coder-cooperative.htm</id>
+    <link href="http://theputnams.net/mike/2015-06-30-coder-cooperative.htm" rel="alternate" type="text/html"/>
+    <title>2015-06-30-coder-cooperative</title>
+    <updated>2015-06-30T00:00:00Z</updated>
+    <source>
+      <id>http://theputnams.net/mike</id>
+      <author>
+        <name>Mike Putnam</name>
+        <email>mike@theputnams.net</email>
+      </author>
+      <link href="http://theputnams.net/mike/feed" rel="self" type="application/atom+xml"/>
+      <title>Mike Putnam</title>
+      <updated>2015-06-30T00:00:00Z</updated>
     </source>
   </entry>
 
@@ -3310,7 +3584,7 @@
       <link href="http://anthonyrhook.com" rel="alternate" type="text/html"/>
       <subtitle>death before decaf</subtitle>
       <title>this is the hook</title>
-      <updated>2016-01-23T01:51:44Z</updated>
+      <updated>2016-02-02T18:34:51Z</updated>
     </source>
   </entry>
 
@@ -3774,7 +4048,1963 @@
       <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
       </subtitle>
       <title>Ian's TechBlog</title>
-      <updated>2015-12-20T14:40:18Z</updated>
+      <updated>2016-01-25T02:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>tag:blogger.com,1999:blog-2703060415027607989.post-425209289269254275</id>
+    <link href="http://cheesehead-techblog.blogspot.com/feeds/425209289269254275/comments/default" rel="replies" title="Post Comments" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/comment.g?blogID=2703060415027607989&amp;postID=425209289269254275" rel="replies" title="4 Comments" type="text/html"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/425209289269254275" rel="edit" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/425209289269254275" rel="self" type="application/atom+xml"/>
+    <link href="http://cheesehead-techblog.blogspot.com/2015/01/introducing-ubuntu-find-task.html" rel="alternate" title="Introducing Ubuntu Find-A-Task" type="text/html"/>
+    <title>Introducing Ubuntu Find-A-Task</title>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><br/><div class="separator" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://design.ubuntu.com/wp-content/uploads/pictogram-community-orange-hex.svg" width="80px"/></div><br/>The Ubuntu Community website has an awesome new service: <a href="http://community.ubuntu.com/contribute/find-a-task/" target="_blank">Find-A-Task</a><br/><br/>It's a referral service - it helps volunteers discover teams and tasks that match their interests.<br/><br/><ul><li>Link to it!</li><li>Refer new enthusiasts toward it!</li><li>Advertise your teams and projects on it!</li></ul><br/>Give it a try and see how it can work for your team or project.<br/><br/><br/><h3><a href="http://design.ubuntu.com/wp-content/uploads/pictogram-add-orange-hex.svg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://design.ubuntu.com/wp-content/uploads/pictogram-add-orange-hex.svg" width="80px"/></a>How do I get my team listed?</h3><br/>So easy and so fast. <br/><ol><li>What volunteer role do you want to advertise?</li><li>What's a very short, exciting description of the role?</li><li>Which <a href="http://community.ubuntu.com/contribute/find-a-task/" target="_blank">Find-A-Task</a> paths do you think this role is appropriate for?  </li><li>Create a great landing page on the wiki. (<a href="https://wiki.ubuntu.com/QATeam/Roles/BugTriager" target="_blank">example</a>)</li><ul/><li>Drop by #ubuntu-community-team and let us know.</li><ul><li>Role: Frobishers, </li><li>Description: "Help Frobnicators add fabulous Frob!"</li><li>Path: One, in the Coding and Development submenu</li><li>Landing URL http://wiki.ubuntu.com/FrobTeam/Frobishers</li></ul></ol><br/><h3><a href="http://design.ubuntu.com/wp-content/uploads/pictogram-articles-orange-hex.svg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://design.ubuntu.com/wp-content/uploads/pictogram-articles-orange-hex.svg" width="80px"/></a>Your landing page: </h3><br/>This is a volunteer's first impression of your team. Make it shine.<br/><br/>When volunteers show up at your wiki page, they are already  interested. They want to know how to set up, who to contact, and how to  get started on their first easy work item. They want instructions and details.<br/><br/>If you don't provide what they want, they may move on to their next choice. <a href="http://community.ubuntu.com/contribute/find-a-task/" target="_blank">Find-A-Task</a> makes it easy for them to move on.<br/><br/><br/><br/><h3><a href="http://design.ubuntu.com/wp-content/uploads/pictogram-thank_you-orange-hex.svg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://design.ubuntu.com/wp-content/uploads/pictogram-thank_you-orange-hex.svg" width="80px"/></a>Credits</h3><br/>Tremendous thanks to:<br/><ul><li><a href="https://www.mozilla.org/en-US/" target="_blank">Mozilla</a> and <a href="https://github.com/ian-weisser/asknot/graphs/contributors" target="_blank">85 contributors</a> who created the excellent <a href="http://whatcanidoformozilla.org/" target="_blank">AskNot</a> that's under the hood of <a href="http://community.ubuntu.com/contribute/find-a-task/" target="_blank">Find-A-Task</a>.</li><li>Thanks to <a href="http://benjaminkerensa.com/" target="_blank">Benjamin Kerensa</a> for the initial suggestion of using AskNot.</li><li>Thanks to <a href="http://princessleia.com/journal/" target="_blank">Elizabeth Krumbach Joseph</a> for assistance, and for all her previous hard work on a similar tool, much of it incorporated into <a href="http://community.ubuntu.com/contribute/find-a-task/" target="_blank">Find-A-Task</a>.</li><li>Thanks to <a href="http://mhall119.com/" target="_blank">Michael Hall</a> for coming up with the name, and for getting <a href="http://community.ubuntu.com/contribute/find-a-task/" target="_blank">Find-A-Task</a> online at last.</li></ul></div>
+    </content>
+    <updated>2015-01-13T17:50:06Z</updated>
+    <published>2015-01-13T17:50:00Z</published>
+    <category scheme="http://www.blogger.com/atom/ns#" term="asknot"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Find-A-Task"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="mozilla"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="planet-ubuntu"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Ubuntu"/>
+    <author>
+      <name>Ian</name>
+      <email>noreply@blogger.com</email>
+      <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+    </author>
+    <source>
+      <id>tag:blogger.com,1999:blog-2703060415027607989</id>
+      <category term="python"/>
+      <category term="command-line"/>
+      <category term="Ubuntu"/>
+      <category term="planet-ubuntu"/>
+      <category term="Debian"/>
+      <category term="bug"/>
+      <category term="dbus"/>
+      <category term="server"/>
+      <category term="Xubuntu"/>
+      <category term="install"/>
+      <category term="bash"/>
+      <category term="superseded"/>
+      <category term="cron"/>
+      <category term="Find-A-Task"/>
+      <category term="GPS"/>
+      <category term="dbus-send"/>
+      <category term="fail"/>
+      <category term="grub"/>
+      <category term="upstart"/>
+      <category term="weather"/>
+      <category term="5000-L"/>
+      <category term="Brainstorm"/>
+      <category term="Epia"/>
+      <category term="Linux"/>
+      <category term="National Weather Service"/>
+      <category term="Network Manager"/>
+      <category term="Simutrans"/>
+      <category term="e-mail"/>
+      <category term="geolocation"/>
+      <category term="imagemagick"/>
+      <category term="openoffice"/>
+      <category term="ssh"/>
+      <category term="vala"/>
+      <category term="OSX"/>
+      <category term="USB"/>
+      <category term="VIA"/>
+      <category term="debootstrap"/>
+      <category term="fanless"/>
+      <category term="gpsd"/>
+      <category term="html"/>
+      <category term="initramfs"/>
+      <category term="package management"/>
+      <category term="socket"/>
+      <category term="sound"/>
+      <category term="svg"/>
+      <category term="torrent"/>
+      <category term="xml"/>
+      <category term="931181"/>
+      <category term="CAC"/>
+      <category term="D-feet"/>
+      <category term="DVD"/>
+      <category term="MacBook"/>
+      <category term="OLPC"/>
+      <category term="USB-ZIP"/>
+      <category term="XP"/>
+      <category term="apt-get"/>
+      <category term="bashrc"/>
+      <category term="curl"/>
+      <category term="evolution"/>
+      <category term="gtfs"/>
+      <category term="iptables"/>
+      <category term="kernel"/>
+      <category term="kingbaron"/>
+      <category term="map"/>
+      <category term="music"/>
+      <category term="nail"/>
+      <category term="odt"/>
+      <category term="python3-gi"/>
+      <category term="route"/>
+      <category term="schedule"/>
+      <category term="sha-1"/>
+      <category term="startup"/>
+      <category term="timetable"/>
+      <category term="transit"/>
+      <category term="trip"/>
+      <category term="zenity"/>
+      <category term="355209"/>
+      <category term="DSL"/>
+      <category term="Deluge"/>
+      <category term="FLAC"/>
+      <category term="GeoClue"/>
+      <category term="GitHub"/>
+      <category term="Google Maps"/>
+      <category term="IDE"/>
+      <category term="METAR"/>
+      <category term="NTFS"/>
+      <category term="QuickBooks"/>
+      <category term="S518"/>
+      <category term="Sangoma"/>
+      <category term="Synaptic"/>
+      <category term="TomTom"/>
+      <category term="UDS"/>
+      <category term="USB-to-serial adapter"/>
+      <category term="Unity"/>
+      <category term="Unix Domain socket"/>
+      <category term="VM"/>
+      <category term="anacron"/>
+      <category term="apt-cache"/>
+      <category term="blog"/>
+      <category term="businesscard"/>
+      <category term="c"/>
+      <category term="certificates"/>
+      <category term="compile"/>
+      <category term="convert"/>
+      <category term="crontab"/>
+      <category term="css"/>
+      <category term="current conditions"/>
+      <category term="ddclient"/>
+      <category term="debtorrent"/>
+      <category term="dhcp"/>
+      <category term="diff"/>
+      <category term="dpkg"/>
+      <category term="dvd::rip"/>
+      <category term="firefox"/>
+      <category term="firewall"/>
+      <category term="forecast"/>
+      <category term="fwknop"/>
+      <category term="gdbm"/>
+      <category term="geocode-glib"/>
+      <category term="getty"/>
+      <category term="git"/>
+      <category term="grep"/>
+      <category term="iBook"/>
+      <category term="import"/>
+      <category term="introspection"/>
+      <category term="irssi"/>
+      <category term="jablicator"/>
+      <category term="log"/>
+      <category term="logging"/>
+      <category term="medibuntu"/>
+      <category term="mgrs"/>
+      <category term="modem"/>
+      <category term="mount"/>
+      <category term="netinstall"/>
+      <category term="ntp"/>
+      <category term="odg"/>
+      <category term="package"/>
+      <category term="patch"/>
+      <category term="pci"/>
+      <category term="pdf"/>
+      <category term="port"/>
+      <category term="pygtk"/>
+      <category term="pynotify"/>
+      <category term="python-dbus"/>
+      <category term="rmadison"/>
+      <category term="rss"/>
+      <category term="rsyslog"/>
+      <category term="scan"/>
+      <category term="serial"/>
+      <category term="shapefile"/>
+      <category term="skype"/>
+      <category term="ssmtp"/>
+      <category term="strings"/>
+      <category term="sudo"/>
+      <category term="sudoers"/>
+      <category term="syslinux"/>
+      <category term="syslog"/>
+      <category term="terminal"/>
+      <category term="tty"/>
+      <category term="visudo"/>
+      <category term="webserver"/>
+      <category term="wget"/>
+      <category term="wine"/>
+      <category term="-39"/>
+      <category term=".desktop"/>
+      <category term=".epub"/>
+      <category term=".lit"/>
+      <category term=".qbw"/>
+      <category term="0003:0D8C:000C.0003"/>
+      <category term="109917"/>
+      <category term="11.10"/>
+      <category term="117984"/>
+      <category term="158706"/>
+      <category term="189642"/>
+      <category term="302"/>
+      <category term="3689"/>
+      <category term="3g2"/>
+      <category term="858122"/>
+      <category term="AKO Instant Messenger"/>
+      <category term="AR9721"/>
+      <category term="Amtrak"/>
+      <category term="Appleworks"/>
+      <category term="Application Indicator"/>
+      <category term="Bean"/>
+      <category term="Blogger"/>
+      <category term="C-Media"/>
+      <category term="CHKDSK"/>
+      <category term="DNS-321"/>
+      <category term="DOD"/>
+      <category term="E625-5192"/>
+      <category term="ElementTree"/>
+      <category term="EtherWrite"/>
+      <category term="GIMP"/>
+      <category term="Garmin"/>
+      <category term="GeoIP"/>
+      <category term="Google+"/>
+      <category term="Journal"/>
+      <category term="LAMP"/>
+      <category term="LXC"/>
+      <category term="LaserWriter 4/600"/>
+      <category term="LiMux"/>
+      <category term="LiveCD"/>
+      <category term="Munich"/>
+      <category term="NAS"/>
+      <category term="National Digital Forecast Database"/>
+      <category term="OCR"/>
+      <category term="Outlook Express"/>
+      <category term="Pidgin"/>
+      <category term="RAID 1"/>
+      <category term="RESTful"/>
+      <category term="RS232"/>
+      <category term="RTFM"/>
+      <category term="Rubik's Cube"/>
+      <category term="SCX-4725"/>
+      <category term="SD"/>
+      <category term="Screen"/>
+      <category term="Shuttle"/>
+      <category term="TCP"/>
+      <category term="TL-WN722N"/>
+      <category term="Tesseract"/>
+      <category term="Thunar"/>
+      <category term="USB-FDD"/>
+      <category term="V745A"/>
+      <category term="Vicks"/>
+      <category term="Windows XP"/>
+      <category term="Wordpress"/>
+      <category term="XO"/>
+      <category term="[]"/>
+      <category term="abcde"/>
+      <category term="abiword"/>
+      <category term="add-remove"/>
+      <category term="admin"/>
+      <category term="ai"/>
+      <category term="alerts"/>
+      <category term="alias"/>
+      <category term="alternate CD"/>
+      <category term="amixer"/>
+      <category term="anacrontab"/>
+      <category term="aplay"/>
+      <category term="apt"/>
+      <category term="apt-move"/>
+      <category term="apt-rdepends"/>
+      <category term="aptitude"/>
+      <category term="aria2c"/>
+      <category term="asknot"/>
+      <category term="aspell"/>
+      <category term="atd"/>
+      <category term="ath9k_htc"/>
+      <category term="audio"/>
+      <category term="autostart"/>
+      <category term="avahi"/>
+      <category term="avahi-discover"/>
+      <category term="backports"/>
+      <category term="backup"/>
+      <category term="backup-manager"/>
+      <category term="blacklist"/>
+      <category term="brasero"/>
+      <category term="broken"/>
+      <category term="cackey"/>
+      <category term="checksum"/>
+      <category term="clit"/>
+      <category term="clock"/>
+      <category term="color"/>
+      <category term="configparse"/>
+      <category term="console"/>
+      <category term="console-kit"/>
+      <category term="container"/>
+      <category term="copy"/>
+      <category term="crash"/>
+      <category term="crda"/>
+      <category term="cups"/>
+      <category term="dash"/>
+      <category term="dbm"/>
+      <category term="ddns"/>
+      <category term="deb"/>
+      <category term="deborphan"/>
+      <category term="defrag"/>
+      <category term="degraded array"/>
+      <category term="deluged"/>
+      <category term="dependencies"/>
+      <category term="desktop"/>
+      <category term="developer.ubuntu.com"/>
+      <category term="devscripts"/>
+      <category term="diagram"/>
+      <category term="disk utility"/>
+      <category term="dmesg"/>
+      <category term="dos"/>
+      <category term="drive"/>
+      <category term="dvdcopy"/>
+      <category term="ebook"/>
+      <category term="environment variable"/>
+      <category term="etherape"/>
+      <category term="etrex"/>
+      <category term="external monitor"/>
+      <category term="favicon"/>
+      <category term="fbreader"/>
+      <category term="file sharing"/>
+      <category term="firefly"/>
+      <category term="fix"/>
+      <category term="font"/>
+      <category term="format"/>
+      <category term="gateway"/>
+      <category term="geoclue-test-gui"/>
+      <category term="gif"/>
+      <category term="gnome-keyring"/>
+      <category term="go"/>
+      <category term="gobject"/>
+      <category term="hal"/>
+      <category term="hard drive"/>
+      <category term="hdparm"/>
+      <category term="headless"/>
+      <category term="headset"/>
+      <category term="hosts.deny"/>
+      <category term="http.server"/>
+      <category term="httplib2"/>
+      <category term="humidifier"/>
+      <category term="iMac"/>
+      <category term="icon"/>
+      <category term="imagemap"/>
+      <category term="initctl"/>
+      <category term="initctl2dot"/>
+      <category term="initrd"/>
+      <category term="inkscape"/>
+      <category term="intel_rng"/>
+      <category term="interprocess"/>
+      <category term="iwlist"/>
+      <category term="javascript"/>
+      <category term="jpg"/>
+      <category term="korinthian violins"/>
+      <category term="launchd"/>
+      <category term="library"/>
+      <category term="list"/>
+      <category term="lit2epub"/>
+      <category term="localtalk"/>
+      <category term="logger"/>
+      <category term="logging.handlers"/>
+      <category term="login"/>
+      <category term="logoff"/>
+      <category term="logout"/>
+      <category term="logrotate"/>
+      <category term="make-kpkg"/>
+      <category term="mdadm"/>
+      <category term="metapackage"/>
+      <category term="mirror"/>
+      <category term="missing"/>
+      <category term="moderator"/>
+      <category term="mozilla"/>
+      <category term="mp3"/>
+      <category term="mt-daapd"/>
+      <category term="netatalk"/>
+      <category term="netcat"/>
+      <category term="notification"/>
+      <category term="null-modem"/>
+      <category term="pacmd"/>
+      <category term="palette"/>
+      <category term="phone"/>
+      <category term="pipe"/>
+      <category term="plist"/>
+      <category term="png"/>
+      <category term="popen"/>
+      <category term="port knock"/>
+      <category term="printer"/>
+      <category term="process"/>
+      <category term="ps"/>
+      <category term="ps2pdf"/>
+      <category term="pulseaudio"/>
+      <category term="python3-gdbm"/>
+      <category term="qbfc"/>
+      <category term="qbxml"/>
+      <category term="radar"/>
+      <category term="rdiff-backup"/>
+      <category term="realtime"/>
+      <category term="reboot"/>
+      <category term="redirect"/>
+      <category term="remount"/>
+      <category term="resume"/>
+      <category term="reviewer"/>
+      <category term="router"/>
+      <category term="rsnapshot"/>
+      <category term="runlevel"/>
+      <category term="samba"/>
+      <category term="security"/>
+      <category term="services-admin"/>
+      <category term="set"/>
+      <category term="signals"/>
+      <category term="skype4pidgin"/>
+      <category term="slocate"/>
+      <category term="snd-hda-intel"/>
+      <category term="speaker"/>
+      <category term="spelling"/>
+      <category term="sql"/>
+      <category term="sqlite"/>
+      <category term="sshd"/>
+      <category term="sshfs"/>
+      <category term="status"/>
+      <category term="stop"/>
+      <category term="stop_times.txt"/>
+      <category term="string arrays"/>
+      <category term="subprocess"/>
+      <category term="success"/>
+      <category term="systemd"/>
+      <category term="tiff"/>
+      <category term="tkinter"/>
+      <category term="top"/>
+      <category term="trace bitmap"/>
+      <category term="trackpad"/>
+      <category term="train"/>
+      <category term="transcode"/>
+      <category term="update-grub"/>
+      <category term="update-notifier"/>
+      <category term="upstart-monitor"/>
+      <category term="valve"/>
+      <category term="vapi"/>
+      <category term="vga"/>
+      <category term="video"/>
+      <category term="vista"/>
+      <category term="warnings"/>
+      <category term="watches"/>
+      <category term="weather-util"/>
+      <category term="weather-util-data"/>
+      <category term="web scraper"/>
+      <category term="wireless"/>
+      <category term="wireless dongle"/>
+      <category term="wodim"/>
+      <category term="xdot"/>
+      <category term="xrandr"/>
+      <author>
+        <name>Ian</name>
+        <email>noreply@blogger.com</email>
+        <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+      </author>
+      <link href="http://cheesehead-techblog.blogspot.com/feeds/posts/default" rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default" rel="self" type="application/atom+xml"/>
+      <link href="http://cheesehead-techblog.blogspot.com/" rel="alternate" type="text/html"/>
+      <link href="http://pubsubhubbub.appspot.com/" rel="hub" type="text/html"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default?start-index=26&amp;max-results=25" rel="next" type="application/atom+xml"/>
+      <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
+      </subtitle>
+      <title>Ian's TechBlog</title>
+      <updated>2016-01-25T02:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>tag:blogger.com,1999:blog-2703060415027607989.post-546955353010904541</id>
+    <link href="http://cheesehead-techblog.blogspot.com/feeds/546955353010904541/comments/default" rel="replies" title="Post Comments" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/comment.g?blogID=2703060415027607989&amp;postID=546955353010904541" rel="replies" title="0 Comments" type="text/html"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/546955353010904541" rel="edit" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/546955353010904541" rel="self" type="application/atom+xml"/>
+    <link href="http://cheesehead-techblog.blogspot.com/2014/12/lxc-containers-and-wordpress.html" rel="alternate" title="Wordpress and LAMP in an LXC Container" type="text/html"/>
+    <title>Wordpress and LAMP in an LXC Container</title>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div class="separator" style="clear: both; text-align: center;"/><div class="separator" style="clear: both; text-align: center;"/><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-rgmKw3018eM/VJToWG2mRuI/AAAAAAAAA6E/FD6UUbroh4U/s1600/containers.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="165" src="http://3.bp.blogspot.com/-rgmKw3018eM/VJToWG2mRuI/AAAAAAAAA6E/FD6UUbroh4U/s1600/containers.png" width="200"/></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Container</td></tr></tbody></table><br/>I need to test some html running in Wordpress.<br/>But I don't use Wordpress...obviously.<br/><br/>In Linux, that's easy to fix. Just install Wordpress.<br/>Oops, not so easy: Wordpress pulls in an entire LAMP stack with it.<br/>That's a lot to pollute my laptop with just to do some testing.<br/><br/>Containers to the rescue!<br/>Let's spin up a container, install LAMP and Wordpress inside it, run the tests, then destroy the container.<br/><br/><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-rlE6RU5hLHs/VJTomvwESnI/AAAAAAAAA6M/RVtgDJCeXZk/s1600/wordpress-logo-notext-rgb.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="200" src="http://1.bp.blogspot.com/-rlE6RU5hLHs/VJTomvwESnI/AAAAAAAAA6M/RVtgDJCeXZk/s1600/wordpress-logo-notext-rgb.png" width="200"/></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Cargo</td></tr></tbody></table><br/><h3>The Router</h3><br/>I'm going to open a whole new port on my router's firewall for this, so others can help me test.<br/><br/>On the router, I want to forward port 112233 to the similar port on the server.<br/><br/>On the server, I want to forward port 112233 to the container's port 80. (That part is later)<br/><br/><br/><h3>Creating the container</h3><br/>Thanks the the amazing Stephane Graber for his <a href="https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/" target="_blank">detailed instructional series</a> on how to create and use a container This is a slightly different setup than he did. Instead of installing directly on, say, a laptop, I'm installing the container onto a server that I access via ssh.<br/><br/>Three moving pieces: Laptop (me), Server (headless), Container (added to server)<br/><br/>So, from Laptop, I ssh into Server normally.<br/><br/><pre>On SERVER:<br/>sudo apt-get install lxc               # Install the container system<br/>sudo lxc-create -t ubuntu-cloud -n c1  # Download and install a 195MB cloud image of Ubuntu 14.10<br/>sudo lxc-start -n wp1 -d               # Boot the image in the background (name is 'wp1')<br/>sudo lxc-info -n wp1                   # Discover the IP of the image<br/>    Name:           c1<br/>    State:          RUNNING<br/>    IP:             10.0.3.201         # &lt;-- Ooh, there is the IP<br/>ping 10.0.3.201                        # Check network connectivity on the container<br/>    PING 10.0.3.201 (10.0.3.201) 56(84) bytes of data.<br/>    64 bytes from 10.0.3.201: icmp_seq=1 ttl=64 time=0.081 ms<br/>    64 bytes from 10.0.3.201: icmp_seq=2 ttl=64 time=0.085 ms<br/><br/># Forward port 112233 to the container<br/>sudo iptables -t nat -A PREROUTING -p tcp -i eth0 --dport 112233 -j DNAT --to-destination 10.0.3.201:80<br/>sudo iptables -A FORWARD -p tcp -d 10.0.3.201 --dport 80 -m state --state NEW,ESTABLISHED,RELATED -j ACCEPT</pre><br/><br/><h3>Set up LAMP and Wordpress within the container</h3><br/>The container is installed, started, and responds to ping.<br/><br/><pre>On SERVER:<br/>sudo lxc-console -n wp1    # Login to the console of wp1 (username: ubuntu, password: ubuntu)</pre><br/>A couple words about the container.<br/>I'm going to skip the part where you would delete the 'ubuntu' user and add your own admin user and password. But you should do it.<br/>Also, two pieces of information you should have handy before going farther. <br/><ol><li>Server's IP address on the LAN (mine is 192.168.0.101)</li><li>The real, fully qualified domain name (freds_blog.fred.com) that readers on the internet will use</li></ol>The FQDN will be used to generate the MySQL account for the blog, and the create the wordpress config file. The LAN address will be used to link to the same accounts.<br/><br/>Special thanks to the Ubuntu community for putting together <a href="https://help.ubuntu.com/community/WordPress" target="_blank">this fantastic tutorial</a> about how to install wordpress in Ubuntu. <br/><br/><pre># On CONTAINER<br/>sudo apt-get install mysql-server wordpress   # 49 packages, 28MB download</pre><br/>Let's jump over to Laptop for a moment and check that Server's port forwarding and Container's apache service are working: Open a browser window, and look for http://192.168.0.101:112233. You should get the apache default page. Success! Okay, now back to Container:<br/><br/><pre># On CONTAINER</pre><pre>sudo ln -s /usr/share/wordpress /var/www/html/wordpress   # Make Wordpress accessible from apache<br/><br/># Create mysql account, and link it to Wordpress<br/>sudo gzip -d /usr/share/doc/wordpress/examples/setup-mysql.gz<br/>sudo bash /usr/share/doc/wordpress/examples/setup-mysql -n freds_blog_fred_com freds_blog.fred.com  <br/><br/># Prevent a Wordpress error (can't locate config file) from within the LAN<br/># by linking the LAN addr to existing FQDN config file<br/>sudo ln /etc/wordpress/config-freds_blog.fred.com.php /etc/wordpress/config-192.168.0.101.php<br/><br/>exit<br/>&lt;ctrl+a, q&gt; to exit the console</pre><br/><br/><h3>Use Wordpress</h3><br/>The setup is complete. Since I'm on my LAN, I point my Laptop browser to http://192.168.1.101/wordpress/ and I get the Wordpress setup screen.<br/><br/>Outside, on the big wide internet, I would point it to http://freds_blog.fred.com/wordpress/ (er, that's an example - you <i>already know</i> that's not my real blog).<br/><br/>Wordpress is ready for my data.<br/><br/><br/><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-PrGHEjjmrVk/VJTqw4tQ2mI/AAAAAAAAA6Y/irZ3TexjACs/s1600/explode_1.gif" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="204" src="http://1.bp.blogspot.com/-PrGHEjjmrVk/VJTqw4tQ2mI/AAAAAAAAA6Y/irZ3TexjACs/s1600/explode_1.gif" width="320"/></a></td></tr><tr><td class="tr-caption" style="text-align: center;">          Bye, Container!</td></tr></tbody></table><h3>Destroying the container</h3><br/>This is one of the true joys of LXC <br/><br/><pre># On SERVER<br/>sudo lxc-stop -n wp1<br/>sudo lxc-destroy -n wp1</pre><br/><br/>And all the work is wiped out forever....<br/><br/>Remember to clean up:<br/><ul><li>Uninstall lxc from the server</li><li>Delete the iptables rules on the server</li><li>Close the port on the router firewall</li></ul><br/></div>
+    </content>
+    <updated>2014-12-20T03:24:58Z</updated>
+    <published>2014-12-20T03:23:00Z</published>
+    <category scheme="http://www.blogger.com/atom/ns#" term="container"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="iptables"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="LAMP"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="LXC"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="server"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="webserver"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Wordpress"/>
+    <author>
+      <name>Ian</name>
+      <email>noreply@blogger.com</email>
+      <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+    </author>
+    <source>
+      <id>tag:blogger.com,1999:blog-2703060415027607989</id>
+      <category term="python"/>
+      <category term="command-line"/>
+      <category term="Ubuntu"/>
+      <category term="planet-ubuntu"/>
+      <category term="Debian"/>
+      <category term="bug"/>
+      <category term="dbus"/>
+      <category term="server"/>
+      <category term="Xubuntu"/>
+      <category term="install"/>
+      <category term="bash"/>
+      <category term="superseded"/>
+      <category term="cron"/>
+      <category term="Find-A-Task"/>
+      <category term="GPS"/>
+      <category term="dbus-send"/>
+      <category term="fail"/>
+      <category term="grub"/>
+      <category term="upstart"/>
+      <category term="weather"/>
+      <category term="5000-L"/>
+      <category term="Brainstorm"/>
+      <category term="Epia"/>
+      <category term="Linux"/>
+      <category term="National Weather Service"/>
+      <category term="Network Manager"/>
+      <category term="Simutrans"/>
+      <category term="e-mail"/>
+      <category term="geolocation"/>
+      <category term="imagemagick"/>
+      <category term="openoffice"/>
+      <category term="ssh"/>
+      <category term="vala"/>
+      <category term="OSX"/>
+      <category term="USB"/>
+      <category term="VIA"/>
+      <category term="debootstrap"/>
+      <category term="fanless"/>
+      <category term="gpsd"/>
+      <category term="html"/>
+      <category term="initramfs"/>
+      <category term="package management"/>
+      <category term="socket"/>
+      <category term="sound"/>
+      <category term="svg"/>
+      <category term="torrent"/>
+      <category term="xml"/>
+      <category term="931181"/>
+      <category term="CAC"/>
+      <category term="D-feet"/>
+      <category term="DVD"/>
+      <category term="MacBook"/>
+      <category term="OLPC"/>
+      <category term="USB-ZIP"/>
+      <category term="XP"/>
+      <category term="apt-get"/>
+      <category term="bashrc"/>
+      <category term="curl"/>
+      <category term="evolution"/>
+      <category term="gtfs"/>
+      <category term="iptables"/>
+      <category term="kernel"/>
+      <category term="kingbaron"/>
+      <category term="map"/>
+      <category term="music"/>
+      <category term="nail"/>
+      <category term="odt"/>
+      <category term="python3-gi"/>
+      <category term="route"/>
+      <category term="schedule"/>
+      <category term="sha-1"/>
+      <category term="startup"/>
+      <category term="timetable"/>
+      <category term="transit"/>
+      <category term="trip"/>
+      <category term="zenity"/>
+      <category term="355209"/>
+      <category term="DSL"/>
+      <category term="Deluge"/>
+      <category term="FLAC"/>
+      <category term="GeoClue"/>
+      <category term="GitHub"/>
+      <category term="Google Maps"/>
+      <category term="IDE"/>
+      <category term="METAR"/>
+      <category term="NTFS"/>
+      <category term="QuickBooks"/>
+      <category term="S518"/>
+      <category term="Sangoma"/>
+      <category term="Synaptic"/>
+      <category term="TomTom"/>
+      <category term="UDS"/>
+      <category term="USB-to-serial adapter"/>
+      <category term="Unity"/>
+      <category term="Unix Domain socket"/>
+      <category term="VM"/>
+      <category term="anacron"/>
+      <category term="apt-cache"/>
+      <category term="blog"/>
+      <category term="businesscard"/>
+      <category term="c"/>
+      <category term="certificates"/>
+      <category term="compile"/>
+      <category term="convert"/>
+      <category term="crontab"/>
+      <category term="css"/>
+      <category term="current conditions"/>
+      <category term="ddclient"/>
+      <category term="debtorrent"/>
+      <category term="dhcp"/>
+      <category term="diff"/>
+      <category term="dpkg"/>
+      <category term="dvd::rip"/>
+      <category term="firefox"/>
+      <category term="firewall"/>
+      <category term="forecast"/>
+      <category term="fwknop"/>
+      <category term="gdbm"/>
+      <category term="geocode-glib"/>
+      <category term="getty"/>
+      <category term="git"/>
+      <category term="grep"/>
+      <category term="iBook"/>
+      <category term="import"/>
+      <category term="introspection"/>
+      <category term="irssi"/>
+      <category term="jablicator"/>
+      <category term="log"/>
+      <category term="logging"/>
+      <category term="medibuntu"/>
+      <category term="mgrs"/>
+      <category term="modem"/>
+      <category term="mount"/>
+      <category term="netinstall"/>
+      <category term="ntp"/>
+      <category term="odg"/>
+      <category term="package"/>
+      <category term="patch"/>
+      <category term="pci"/>
+      <category term="pdf"/>
+      <category term="port"/>
+      <category term="pygtk"/>
+      <category term="pynotify"/>
+      <category term="python-dbus"/>
+      <category term="rmadison"/>
+      <category term="rss"/>
+      <category term="rsyslog"/>
+      <category term="scan"/>
+      <category term="serial"/>
+      <category term="shapefile"/>
+      <category term="skype"/>
+      <category term="ssmtp"/>
+      <category term="strings"/>
+      <category term="sudo"/>
+      <category term="sudoers"/>
+      <category term="syslinux"/>
+      <category term="syslog"/>
+      <category term="terminal"/>
+      <category term="tty"/>
+      <category term="visudo"/>
+      <category term="webserver"/>
+      <category term="wget"/>
+      <category term="wine"/>
+      <category term="-39"/>
+      <category term=".desktop"/>
+      <category term=".epub"/>
+      <category term=".lit"/>
+      <category term=".qbw"/>
+      <category term="0003:0D8C:000C.0003"/>
+      <category term="109917"/>
+      <category term="11.10"/>
+      <category term="117984"/>
+      <category term="158706"/>
+      <category term="189642"/>
+      <category term="302"/>
+      <category term="3689"/>
+      <category term="3g2"/>
+      <category term="858122"/>
+      <category term="AKO Instant Messenger"/>
+      <category term="AR9721"/>
+      <category term="Amtrak"/>
+      <category term="Appleworks"/>
+      <category term="Application Indicator"/>
+      <category term="Bean"/>
+      <category term="Blogger"/>
+      <category term="C-Media"/>
+      <category term="CHKDSK"/>
+      <category term="DNS-321"/>
+      <category term="DOD"/>
+      <category term="E625-5192"/>
+      <category term="ElementTree"/>
+      <category term="EtherWrite"/>
+      <category term="GIMP"/>
+      <category term="Garmin"/>
+      <category term="GeoIP"/>
+      <category term="Google+"/>
+      <category term="Journal"/>
+      <category term="LAMP"/>
+      <category term="LXC"/>
+      <category term="LaserWriter 4/600"/>
+      <category term="LiMux"/>
+      <category term="LiveCD"/>
+      <category term="Munich"/>
+      <category term="NAS"/>
+      <category term="National Digital Forecast Database"/>
+      <category term="OCR"/>
+      <category term="Outlook Express"/>
+      <category term="Pidgin"/>
+      <category term="RAID 1"/>
+      <category term="RESTful"/>
+      <category term="RS232"/>
+      <category term="RTFM"/>
+      <category term="Rubik's Cube"/>
+      <category term="SCX-4725"/>
+      <category term="SD"/>
+      <category term="Screen"/>
+      <category term="Shuttle"/>
+      <category term="TCP"/>
+      <category term="TL-WN722N"/>
+      <category term="Tesseract"/>
+      <category term="Thunar"/>
+      <category term="USB-FDD"/>
+      <category term="V745A"/>
+      <category term="Vicks"/>
+      <category term="Windows XP"/>
+      <category term="Wordpress"/>
+      <category term="XO"/>
+      <category term="[]"/>
+      <category term="abcde"/>
+      <category term="abiword"/>
+      <category term="add-remove"/>
+      <category term="admin"/>
+      <category term="ai"/>
+      <category term="alerts"/>
+      <category term="alias"/>
+      <category term="alternate CD"/>
+      <category term="amixer"/>
+      <category term="anacrontab"/>
+      <category term="aplay"/>
+      <category term="apt"/>
+      <category term="apt-move"/>
+      <category term="apt-rdepends"/>
+      <category term="aptitude"/>
+      <category term="aria2c"/>
+      <category term="asknot"/>
+      <category term="aspell"/>
+      <category term="atd"/>
+      <category term="ath9k_htc"/>
+      <category term="audio"/>
+      <category term="autostart"/>
+      <category term="avahi"/>
+      <category term="avahi-discover"/>
+      <category term="backports"/>
+      <category term="backup"/>
+      <category term="backup-manager"/>
+      <category term="blacklist"/>
+      <category term="brasero"/>
+      <category term="broken"/>
+      <category term="cackey"/>
+      <category term="checksum"/>
+      <category term="clit"/>
+      <category term="clock"/>
+      <category term="color"/>
+      <category term="configparse"/>
+      <category term="console"/>
+      <category term="console-kit"/>
+      <category term="container"/>
+      <category term="copy"/>
+      <category term="crash"/>
+      <category term="crda"/>
+      <category term="cups"/>
+      <category term="dash"/>
+      <category term="dbm"/>
+      <category term="ddns"/>
+      <category term="deb"/>
+      <category term="deborphan"/>
+      <category term="defrag"/>
+      <category term="degraded array"/>
+      <category term="deluged"/>
+      <category term="dependencies"/>
+      <category term="desktop"/>
+      <category term="developer.ubuntu.com"/>
+      <category term="devscripts"/>
+      <category term="diagram"/>
+      <category term="disk utility"/>
+      <category term="dmesg"/>
+      <category term="dos"/>
+      <category term="drive"/>
+      <category term="dvdcopy"/>
+      <category term="ebook"/>
+      <category term="environment variable"/>
+      <category term="etherape"/>
+      <category term="etrex"/>
+      <category term="external monitor"/>
+      <category term="favicon"/>
+      <category term="fbreader"/>
+      <category term="file sharing"/>
+      <category term="firefly"/>
+      <category term="fix"/>
+      <category term="font"/>
+      <category term="format"/>
+      <category term="gateway"/>
+      <category term="geoclue-test-gui"/>
+      <category term="gif"/>
+      <category term="gnome-keyring"/>
+      <category term="go"/>
+      <category term="gobject"/>
+      <category term="hal"/>
+      <category term="hard drive"/>
+      <category term="hdparm"/>
+      <category term="headless"/>
+      <category term="headset"/>
+      <category term="hosts.deny"/>
+      <category term="http.server"/>
+      <category term="httplib2"/>
+      <category term="humidifier"/>
+      <category term="iMac"/>
+      <category term="icon"/>
+      <category term="imagemap"/>
+      <category term="initctl"/>
+      <category term="initctl2dot"/>
+      <category term="initrd"/>
+      <category term="inkscape"/>
+      <category term="intel_rng"/>
+      <category term="interprocess"/>
+      <category term="iwlist"/>
+      <category term="javascript"/>
+      <category term="jpg"/>
+      <category term="korinthian violins"/>
+      <category term="launchd"/>
+      <category term="library"/>
+      <category term="list"/>
+      <category term="lit2epub"/>
+      <category term="localtalk"/>
+      <category term="logger"/>
+      <category term="logging.handlers"/>
+      <category term="login"/>
+      <category term="logoff"/>
+      <category term="logout"/>
+      <category term="logrotate"/>
+      <category term="make-kpkg"/>
+      <category term="mdadm"/>
+      <category term="metapackage"/>
+      <category term="mirror"/>
+      <category term="missing"/>
+      <category term="moderator"/>
+      <category term="mozilla"/>
+      <category term="mp3"/>
+      <category term="mt-daapd"/>
+      <category term="netatalk"/>
+      <category term="netcat"/>
+      <category term="notification"/>
+      <category term="null-modem"/>
+      <category term="pacmd"/>
+      <category term="palette"/>
+      <category term="phone"/>
+      <category term="pipe"/>
+      <category term="plist"/>
+      <category term="png"/>
+      <category term="popen"/>
+      <category term="port knock"/>
+      <category term="printer"/>
+      <category term="process"/>
+      <category term="ps"/>
+      <category term="ps2pdf"/>
+      <category term="pulseaudio"/>
+      <category term="python3-gdbm"/>
+      <category term="qbfc"/>
+      <category term="qbxml"/>
+      <category term="radar"/>
+      <category term="rdiff-backup"/>
+      <category term="realtime"/>
+      <category term="reboot"/>
+      <category term="redirect"/>
+      <category term="remount"/>
+      <category term="resume"/>
+      <category term="reviewer"/>
+      <category term="router"/>
+      <category term="rsnapshot"/>
+      <category term="runlevel"/>
+      <category term="samba"/>
+      <category term="security"/>
+      <category term="services-admin"/>
+      <category term="set"/>
+      <category term="signals"/>
+      <category term="skype4pidgin"/>
+      <category term="slocate"/>
+      <category term="snd-hda-intel"/>
+      <category term="speaker"/>
+      <category term="spelling"/>
+      <category term="sql"/>
+      <category term="sqlite"/>
+      <category term="sshd"/>
+      <category term="sshfs"/>
+      <category term="status"/>
+      <category term="stop"/>
+      <category term="stop_times.txt"/>
+      <category term="string arrays"/>
+      <category term="subprocess"/>
+      <category term="success"/>
+      <category term="systemd"/>
+      <category term="tiff"/>
+      <category term="tkinter"/>
+      <category term="top"/>
+      <category term="trace bitmap"/>
+      <category term="trackpad"/>
+      <category term="train"/>
+      <category term="transcode"/>
+      <category term="update-grub"/>
+      <category term="update-notifier"/>
+      <category term="upstart-monitor"/>
+      <category term="valve"/>
+      <category term="vapi"/>
+      <category term="vga"/>
+      <category term="video"/>
+      <category term="vista"/>
+      <category term="warnings"/>
+      <category term="watches"/>
+      <category term="weather-util"/>
+      <category term="weather-util-data"/>
+      <category term="web scraper"/>
+      <category term="wireless"/>
+      <category term="wireless dongle"/>
+      <category term="wodim"/>
+      <category term="xdot"/>
+      <category term="xrandr"/>
+      <author>
+        <name>Ian</name>
+        <email>noreply@blogger.com</email>
+        <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+      </author>
+      <link href="http://cheesehead-techblog.blogspot.com/feeds/posts/default" rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default" rel="self" type="application/atom+xml"/>
+      <link href="http://cheesehead-techblog.blogspot.com/" rel="alternate" type="text/html"/>
+      <link href="http://pubsubhubbub.appspot.com/" rel="hub" type="text/html"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default?start-index=26&amp;max-results=25" rel="next" type="application/atom+xml"/>
+      <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
+      </subtitle>
+      <title>Ian's TechBlog</title>
+      <updated>2016-01-25T02:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>tag:blogger.com,1999:blog-2703060415027607989.post-3615905999005003164</id>
+    <link href="http://cheesehead-techblog.blogspot.com/feeds/3615905999005003164/comments/default" rel="replies" title="Post Comments" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/comment.g?blogID=2703060415027607989&amp;postID=3615905999005003164" rel="replies" title="0 Comments" type="text/html"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/3615905999005003164" rel="edit" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/3615905999005003164" rel="self" type="application/atom+xml"/>
+    <link href="http://cheesehead-techblog.blogspot.com/2014/12/say-what-are-you-doing-this-afternoon.html" rel="alternate" title="Say, what are you doing this afternoon?" type="text/html"/>
+    <title>Say, what are you doing this afternoon?</title>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://www.paintinghere.org/UploadPic/Leonid%20Afremov/big/BUS%20STOP%20-%20UNDER%20THE%20RAIN.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="195" src="http://www.paintinghere.org/UploadPic/Leonid%20Afremov/big/BUS%20STOP%20-%20UNDER%20THE%20RAIN.jpg" width="320"/></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Bus Stop - Under The Rain by Leonid Afremov </td></tr></tbody></table>Here's a happy little afternoon project for new users trying to play with a new <br/>language or script, and getting their feet in the open-source ecosystem.<br/><br/>Your phone's handy weather app depends upon the goodwill of a for-profit data provider, and their often-opaque API (14 degrees? Where was it observed? When?) That's a shame because most data collection is paid for by you, the taxpayer.<br/><br/>Let's take the profit-from-data out of that system. Several projects have tried to do this before (including libgweather), but each tried to do too much and replicate the one-data-provider-to-rule-them-all model. And most ran aground on that complexity.<br/><br/><br/><h2>Here's where you come in</h2>One afternoon, look up your weather service's online data sources. And knock together a script to publish them in a uniform format.<br/><br/>Here's the one I did for the United States:<br/><a href="https://raw.githubusercontent.com/ian-weisser/data/master/metar.csv" target="_blank">Worldwide METAR observation sites</a><br/><a href="https://raw.githubusercontent.com/ian-weisser/data/master/radar.csv" target="_blank">US DOD and NOAA weather radars</a><br/><a href="https://raw.githubusercontent.com/ian-weisser/data/master/zone.csv" target="_blank">US Forecast/Alert zones</a><br/><br/><ul><a href="http://4.bp.blogspot.com/-vIFtcltQPO0/VIyP8C2QzYI/AAAAAAAAA5g/hpDu4dUFwxM/s1600/double_rainbow.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="133" src="http://4.bp.blogspot.com/-vIFtcltQPO0/VIyP8C2QzYI/AAAAAAAAA5g/hpDu4dUFwxM/s1600/double_rainbow.jpg" width="200"/></a><li>Looking for data on non-METAR (non-airport) observation stations, weather radar sites, and whatever forecast and alert areas your country uses.</li><br/><li>Use the same format I did: Lat (deg.decimal), Lon (deg.decimal), Location Code, Long Name. Use the original source's data, even if it's wrong. Area and zones should use the lat/lon of the centroid. </li><br/><li>The format is simple CSV, easy to parse and publish.</li><br/><li>Publish on GitHub, for easy version control, permalinking, free storage, and uptime. </li><br/><li>Here's the key: Your data must be automatically-updated. Regularly, your program must check the original source and update your published version. <a href="http://cheesehead-techblog.blogspot.com/2014/12/how-to-set-up-automatic-github-uploads.html" target="_blank">How I did it</a> with a cron job. Publish both the data and your method on GitHub.  </li><br/><li>When you have published, drop me an e-mail so I can link to your data and source.</li></ul><br/>If you do it right, one afternoon to setup your country's self-updating database. Not a bad little project, you learn a little, and you help make the world a better place. <br/><br/><br/><h2>My country doesn't have online weather data</h2><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-qa8Ou1y0bd4/VIySILFr5wI/AAAAAAAAA50/augH0ZycK-0/s1600/jerusalem-palm-tre_2448489k.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="124" src="http://2.bp.blogspot.com/-qa8Ou1y0bd4/VIySILFr5wI/AAAAAAAAA50/augH0ZycK-0/s1600/jerusalem-palm-tre_2448489k.jpg" width="200"/></a></div>Sorry to hear that. You're missing some great stuff.<br/><br/>If you live in a country with a reasonably free press and reasonably fair elections, make a stink about it. You are probably already paying for it through taxes, why can't you have it?<br/><br/>If you live somewhere else, then next time you have a revolution or coup, add 'open data' to the long list of needed reforms.<br/><br/><br/><ul/><h2>What will this accomplish?</h2>This will create a free, sustainably updated, uniform, crowdsourced set of accurate worldwide data that will be easy to compile into a single global database. If you drop out, your online code will ensure another volunteer can step in.<br/><br/>This is one fundamental tool that other free-weather projects have lacked. And any weather project can use this.<br/><br/><a href="http://3.bp.blogspot.com/-eYjZqlixckg/VIyOsLmN4qI/AAAAAAAAA5U/kMOvbNm7-uI/s1600/clouds.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="116" src="http://3.bp.blogspot.com/-eYjZqlixckg/VIyOsLmN4qI/AAAAAAAAA5U/kMOvbNm7-uI/s1600/clouds.jpg" width="200"/></a>The global database of locations is really small by most database standards. Small enough to easily fit on a phone. Small enough to be bundled with apps that can request data directly from original sources...once they can look up the correct source to use.<br/><br/><br/><h2>How will this change the world?</h2>It's about simple tools that make<br/> it easy to create free, cool software.<br/>And it's about ensuring free access to data you already paid for.<br/><br/>Not bad for one afternoon's contribution.</div>
+    </content>
+    <updated>2014-12-13T19:28:27Z</updated>
+    <published>2014-12-13T19:28:00Z</published>
+    <category scheme="http://www.blogger.com/atom/ns#" term="GitHub"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="National Weather Service"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="planet-ubuntu"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="weather"/>
+    <author>
+      <name>Ian</name>
+      <email>noreply@blogger.com</email>
+      <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+    </author>
+    <source>
+      <id>tag:blogger.com,1999:blog-2703060415027607989</id>
+      <category term="python"/>
+      <category term="command-line"/>
+      <category term="Ubuntu"/>
+      <category term="planet-ubuntu"/>
+      <category term="Debian"/>
+      <category term="bug"/>
+      <category term="dbus"/>
+      <category term="server"/>
+      <category term="Xubuntu"/>
+      <category term="install"/>
+      <category term="bash"/>
+      <category term="superseded"/>
+      <category term="cron"/>
+      <category term="Find-A-Task"/>
+      <category term="GPS"/>
+      <category term="dbus-send"/>
+      <category term="fail"/>
+      <category term="grub"/>
+      <category term="upstart"/>
+      <category term="weather"/>
+      <category term="5000-L"/>
+      <category term="Brainstorm"/>
+      <category term="Epia"/>
+      <category term="Linux"/>
+      <category term="National Weather Service"/>
+      <category term="Network Manager"/>
+      <category term="Simutrans"/>
+      <category term="e-mail"/>
+      <category term="geolocation"/>
+      <category term="imagemagick"/>
+      <category term="openoffice"/>
+      <category term="ssh"/>
+      <category term="vala"/>
+      <category term="OSX"/>
+      <category term="USB"/>
+      <category term="VIA"/>
+      <category term="debootstrap"/>
+      <category term="fanless"/>
+      <category term="gpsd"/>
+      <category term="html"/>
+      <category term="initramfs"/>
+      <category term="package management"/>
+      <category term="socket"/>
+      <category term="sound"/>
+      <category term="svg"/>
+      <category term="torrent"/>
+      <category term="xml"/>
+      <category term="931181"/>
+      <category term="CAC"/>
+      <category term="D-feet"/>
+      <category term="DVD"/>
+      <category term="MacBook"/>
+      <category term="OLPC"/>
+      <category term="USB-ZIP"/>
+      <category term="XP"/>
+      <category term="apt-get"/>
+      <category term="bashrc"/>
+      <category term="curl"/>
+      <category term="evolution"/>
+      <category term="gtfs"/>
+      <category term="iptables"/>
+      <category term="kernel"/>
+      <category term="kingbaron"/>
+      <category term="map"/>
+      <category term="music"/>
+      <category term="nail"/>
+      <category term="odt"/>
+      <category term="python3-gi"/>
+      <category term="route"/>
+      <category term="schedule"/>
+      <category term="sha-1"/>
+      <category term="startup"/>
+      <category term="timetable"/>
+      <category term="transit"/>
+      <category term="trip"/>
+      <category term="zenity"/>
+      <category term="355209"/>
+      <category term="DSL"/>
+      <category term="Deluge"/>
+      <category term="FLAC"/>
+      <category term="GeoClue"/>
+      <category term="GitHub"/>
+      <category term="Google Maps"/>
+      <category term="IDE"/>
+      <category term="METAR"/>
+      <category term="NTFS"/>
+      <category term="QuickBooks"/>
+      <category term="S518"/>
+      <category term="Sangoma"/>
+      <category term="Synaptic"/>
+      <category term="TomTom"/>
+      <category term="UDS"/>
+      <category term="USB-to-serial adapter"/>
+      <category term="Unity"/>
+      <category term="Unix Domain socket"/>
+      <category term="VM"/>
+      <category term="anacron"/>
+      <category term="apt-cache"/>
+      <category term="blog"/>
+      <category term="businesscard"/>
+      <category term="c"/>
+      <category term="certificates"/>
+      <category term="compile"/>
+      <category term="convert"/>
+      <category term="crontab"/>
+      <category term="css"/>
+      <category term="current conditions"/>
+      <category term="ddclient"/>
+      <category term="debtorrent"/>
+      <category term="dhcp"/>
+      <category term="diff"/>
+      <category term="dpkg"/>
+      <category term="dvd::rip"/>
+      <category term="firefox"/>
+      <category term="firewall"/>
+      <category term="forecast"/>
+      <category term="fwknop"/>
+      <category term="gdbm"/>
+      <category term="geocode-glib"/>
+      <category term="getty"/>
+      <category term="git"/>
+      <category term="grep"/>
+      <category term="iBook"/>
+      <category term="import"/>
+      <category term="introspection"/>
+      <category term="irssi"/>
+      <category term="jablicator"/>
+      <category term="log"/>
+      <category term="logging"/>
+      <category term="medibuntu"/>
+      <category term="mgrs"/>
+      <category term="modem"/>
+      <category term="mount"/>
+      <category term="netinstall"/>
+      <category term="ntp"/>
+      <category term="odg"/>
+      <category term="package"/>
+      <category term="patch"/>
+      <category term="pci"/>
+      <category term="pdf"/>
+      <category term="port"/>
+      <category term="pygtk"/>
+      <category term="pynotify"/>
+      <category term="python-dbus"/>
+      <category term="rmadison"/>
+      <category term="rss"/>
+      <category term="rsyslog"/>
+      <category term="scan"/>
+      <category term="serial"/>
+      <category term="shapefile"/>
+      <category term="skype"/>
+      <category term="ssmtp"/>
+      <category term="strings"/>
+      <category term="sudo"/>
+      <category term="sudoers"/>
+      <category term="syslinux"/>
+      <category term="syslog"/>
+      <category term="terminal"/>
+      <category term="tty"/>
+      <category term="visudo"/>
+      <category term="webserver"/>
+      <category term="wget"/>
+      <category term="wine"/>
+      <category term="-39"/>
+      <category term=".desktop"/>
+      <category term=".epub"/>
+      <category term=".lit"/>
+      <category term=".qbw"/>
+      <category term="0003:0D8C:000C.0003"/>
+      <category term="109917"/>
+      <category term="11.10"/>
+      <category term="117984"/>
+      <category term="158706"/>
+      <category term="189642"/>
+      <category term="302"/>
+      <category term="3689"/>
+      <category term="3g2"/>
+      <category term="858122"/>
+      <category term="AKO Instant Messenger"/>
+      <category term="AR9721"/>
+      <category term="Amtrak"/>
+      <category term="Appleworks"/>
+      <category term="Application Indicator"/>
+      <category term="Bean"/>
+      <category term="Blogger"/>
+      <category term="C-Media"/>
+      <category term="CHKDSK"/>
+      <category term="DNS-321"/>
+      <category term="DOD"/>
+      <category term="E625-5192"/>
+      <category term="ElementTree"/>
+      <category term="EtherWrite"/>
+      <category term="GIMP"/>
+      <category term="Garmin"/>
+      <category term="GeoIP"/>
+      <category term="Google+"/>
+      <category term="Journal"/>
+      <category term="LAMP"/>
+      <category term="LXC"/>
+      <category term="LaserWriter 4/600"/>
+      <category term="LiMux"/>
+      <category term="LiveCD"/>
+      <category term="Munich"/>
+      <category term="NAS"/>
+      <category term="National Digital Forecast Database"/>
+      <category term="OCR"/>
+      <category term="Outlook Express"/>
+      <category term="Pidgin"/>
+      <category term="RAID 1"/>
+      <category term="RESTful"/>
+      <category term="RS232"/>
+      <category term="RTFM"/>
+      <category term="Rubik's Cube"/>
+      <category term="SCX-4725"/>
+      <category term="SD"/>
+      <category term="Screen"/>
+      <category term="Shuttle"/>
+      <category term="TCP"/>
+      <category term="TL-WN722N"/>
+      <category term="Tesseract"/>
+      <category term="Thunar"/>
+      <category term="USB-FDD"/>
+      <category term="V745A"/>
+      <category term="Vicks"/>
+      <category term="Windows XP"/>
+      <category term="Wordpress"/>
+      <category term="XO"/>
+      <category term="[]"/>
+      <category term="abcde"/>
+      <category term="abiword"/>
+      <category term="add-remove"/>
+      <category term="admin"/>
+      <category term="ai"/>
+      <category term="alerts"/>
+      <category term="alias"/>
+      <category term="alternate CD"/>
+      <category term="amixer"/>
+      <category term="anacrontab"/>
+      <category term="aplay"/>
+      <category term="apt"/>
+      <category term="apt-move"/>
+      <category term="apt-rdepends"/>
+      <category term="aptitude"/>
+      <category term="aria2c"/>
+      <category term="asknot"/>
+      <category term="aspell"/>
+      <category term="atd"/>
+      <category term="ath9k_htc"/>
+      <category term="audio"/>
+      <category term="autostart"/>
+      <category term="avahi"/>
+      <category term="avahi-discover"/>
+      <category term="backports"/>
+      <category term="backup"/>
+      <category term="backup-manager"/>
+      <category term="blacklist"/>
+      <category term="brasero"/>
+      <category term="broken"/>
+      <category term="cackey"/>
+      <category term="checksum"/>
+      <category term="clit"/>
+      <category term="clock"/>
+      <category term="color"/>
+      <category term="configparse"/>
+      <category term="console"/>
+      <category term="console-kit"/>
+      <category term="container"/>
+      <category term="copy"/>
+      <category term="crash"/>
+      <category term="crda"/>
+      <category term="cups"/>
+      <category term="dash"/>
+      <category term="dbm"/>
+      <category term="ddns"/>
+      <category term="deb"/>
+      <category term="deborphan"/>
+      <category term="defrag"/>
+      <category term="degraded array"/>
+      <category term="deluged"/>
+      <category term="dependencies"/>
+      <category term="desktop"/>
+      <category term="developer.ubuntu.com"/>
+      <category term="devscripts"/>
+      <category term="diagram"/>
+      <category term="disk utility"/>
+      <category term="dmesg"/>
+      <category term="dos"/>
+      <category term="drive"/>
+      <category term="dvdcopy"/>
+      <category term="ebook"/>
+      <category term="environment variable"/>
+      <category term="etherape"/>
+      <category term="etrex"/>
+      <category term="external monitor"/>
+      <category term="favicon"/>
+      <category term="fbreader"/>
+      <category term="file sharing"/>
+      <category term="firefly"/>
+      <category term="fix"/>
+      <category term="font"/>
+      <category term="format"/>
+      <category term="gateway"/>
+      <category term="geoclue-test-gui"/>
+      <category term="gif"/>
+      <category term="gnome-keyring"/>
+      <category term="go"/>
+      <category term="gobject"/>
+      <category term="hal"/>
+      <category term="hard drive"/>
+      <category term="hdparm"/>
+      <category term="headless"/>
+      <category term="headset"/>
+      <category term="hosts.deny"/>
+      <category term="http.server"/>
+      <category term="httplib2"/>
+      <category term="humidifier"/>
+      <category term="iMac"/>
+      <category term="icon"/>
+      <category term="imagemap"/>
+      <category term="initctl"/>
+      <category term="initctl2dot"/>
+      <category term="initrd"/>
+      <category term="inkscape"/>
+      <category term="intel_rng"/>
+      <category term="interprocess"/>
+      <category term="iwlist"/>
+      <category term="javascript"/>
+      <category term="jpg"/>
+      <category term="korinthian violins"/>
+      <category term="launchd"/>
+      <category term="library"/>
+      <category term="list"/>
+      <category term="lit2epub"/>
+      <category term="localtalk"/>
+      <category term="logger"/>
+      <category term="logging.handlers"/>
+      <category term="login"/>
+      <category term="logoff"/>
+      <category term="logout"/>
+      <category term="logrotate"/>
+      <category term="make-kpkg"/>
+      <category term="mdadm"/>
+      <category term="metapackage"/>
+      <category term="mirror"/>
+      <category term="missing"/>
+      <category term="moderator"/>
+      <category term="mozilla"/>
+      <category term="mp3"/>
+      <category term="mt-daapd"/>
+      <category term="netatalk"/>
+      <category term="netcat"/>
+      <category term="notification"/>
+      <category term="null-modem"/>
+      <category term="pacmd"/>
+      <category term="palette"/>
+      <category term="phone"/>
+      <category term="pipe"/>
+      <category term="plist"/>
+      <category term="png"/>
+      <category term="popen"/>
+      <category term="port knock"/>
+      <category term="printer"/>
+      <category term="process"/>
+      <category term="ps"/>
+      <category term="ps2pdf"/>
+      <category term="pulseaudio"/>
+      <category term="python3-gdbm"/>
+      <category term="qbfc"/>
+      <category term="qbxml"/>
+      <category term="radar"/>
+      <category term="rdiff-backup"/>
+      <category term="realtime"/>
+      <category term="reboot"/>
+      <category term="redirect"/>
+      <category term="remount"/>
+      <category term="resume"/>
+      <category term="reviewer"/>
+      <category term="router"/>
+      <category term="rsnapshot"/>
+      <category term="runlevel"/>
+      <category term="samba"/>
+      <category term="security"/>
+      <category term="services-admin"/>
+      <category term="set"/>
+      <category term="signals"/>
+      <category term="skype4pidgin"/>
+      <category term="slocate"/>
+      <category term="snd-hda-intel"/>
+      <category term="speaker"/>
+      <category term="spelling"/>
+      <category term="sql"/>
+      <category term="sqlite"/>
+      <category term="sshd"/>
+      <category term="sshfs"/>
+      <category term="status"/>
+      <category term="stop"/>
+      <category term="stop_times.txt"/>
+      <category term="string arrays"/>
+      <category term="subprocess"/>
+      <category term="success"/>
+      <category term="systemd"/>
+      <category term="tiff"/>
+      <category term="tkinter"/>
+      <category term="top"/>
+      <category term="trace bitmap"/>
+      <category term="trackpad"/>
+      <category term="train"/>
+      <category term="transcode"/>
+      <category term="update-grub"/>
+      <category term="update-notifier"/>
+      <category term="upstart-monitor"/>
+      <category term="valve"/>
+      <category term="vapi"/>
+      <category term="vga"/>
+      <category term="video"/>
+      <category term="vista"/>
+      <category term="warnings"/>
+      <category term="watches"/>
+      <category term="weather-util"/>
+      <category term="weather-util-data"/>
+      <category term="web scraper"/>
+      <category term="wireless"/>
+      <category term="wireless dongle"/>
+      <category term="wodim"/>
+      <category term="xdot"/>
+      <category term="xrandr"/>
+      <author>
+        <name>Ian</name>
+        <email>noreply@blogger.com</email>
+        <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+      </author>
+      <link href="http://cheesehead-techblog.blogspot.com/feeds/posts/default" rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default" rel="self" type="application/atom+xml"/>
+      <link href="http://cheesehead-techblog.blogspot.com/" rel="alternate" type="text/html"/>
+      <link href="http://pubsubhubbub.appspot.com/" rel="hub" type="text/html"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default?start-index=26&amp;max-results=25" rel="next" type="application/atom+xml"/>
+      <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
+      </subtitle>
+      <title>Ian's TechBlog</title>
+      <updated>2016-01-25T02:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry>
+    <id>tag:blogger.com,1999:blog-2703060415027607989.post-2432053774030148130</id>
+    <link href="http://cheesehead-techblog.blogspot.com/feeds/2432053774030148130/comments/default" rel="replies" title="Post Comments" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/comment.g?blogID=2703060415027607989&amp;postID=2432053774030148130" rel="replies" title="0 Comments" type="text/html"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/2432053774030148130" rel="edit" type="application/atom+xml"/>
+    <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default/2432053774030148130" rel="self" type="application/atom+xml"/>
+    <link href="http://cheesehead-techblog.blogspot.com/2014/12/how-to-set-up-automatic-github-uploads.html" rel="alternate" title="How to set up automatic Github uploads" type="text/html"/>
+    <title>How to set up automatic Github uploads</title>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><h2>Back to basics</h2>For years, I have been <a href="http://cheesehead-techblog.blogspot.com/2012/09/us-national-weather-service-info-feeds.html" target="_blank">playing with</a> <a href="http://cheesehead-techblog.blogspot.com/2009/06/xubuntu-desktop-wallpaper-from-website.html" target="_blank">US Weather</a> <a href="http://cheesehead-techblog.blogspot.com/2012/11/new-us-national-weather-service.html" target="_blank">Data</a>.<br/><br/>A couple years ago, I came up with a <a href="http://cheesehead-techblog.blogspot.com/2012/11/new-us-national-weather-service.html" target="_blank">lookup server for US weather locations</a>, and -of course- had all kinds of plans for how to expand it to more services and more countries.<br/><br/>So, of course, it went nowhere.<br/><br/>This week, I took a look at the issue again, and came up with a simple set of lookup tables (yes, a tiny database) to replace the server. It reduced the amount of code by about 70%, and it's finally in a maintainable, expandable form. It's simple, and ready for a few drive-by patches.<br/><br/>Which leads to the next question...how to share it with the world?<br/><br/>Well, in this decade, sharing software and data means putting it on GitHub.<br/><br/><br/><h2>Creating the GitHub repositories</h2>We have a Python 3 script that creates the database, another Python 3 example script that consumes the database, and the three CSV files that make up the database tables. Most consumers will probably just want the data for their own purposes - they really don't need the scripts (and it would be quite rude for millions of users to hit NOAA servers to produce their own databases each week)<br/><br/>So I created two repositories on GitHub, one for the data and another for the optional scripts.<br/><br/>If you haven't used GitHub, you first go online and create your account and create the repositories (with initial README file) in a web browser. Then:<br/><br/><pre>cd /tmp<br/>git clone https://github.com/ian-weisser/data   # Create a clone of the online repository<br/>cd data</pre><pre>cp /home/somewhere/else/data/* ./               # Add existing data files into the local clone<br/>git add ./*                                     # Tell git to track the new data files<br/>git commit -m "Add initial data"<br/>git push origin master                          # Push the changes back to GitHub<br/>  Username for 'https://github.com':<br/>  Password for 'https://me@github.com': </pre><pre>cd /tmp </pre><pre>rm -rf /tmp/data                                # Clean up</pre><br/>Overall, it's pretty simple. For the next iteration:<br/><ul><li>We must automate the upload credentials so it doesn't prompt for a username and password each time.</li><li>We must add a cron job that creates the data for upload.</li><li>Let's move this project from /tmp on my laptop to the server where it will live permanently. This also means that the server should pull the latest Python script...which is also hosted on GitHub.</li></ul><br/><h2>Let's setup the server:</h2><br/><pre>sudo apt-get install git    # On this server, about 3 MB of download<br/>sudo apt-get install python3-httplib2  # Script dependency<br/>mkdir uploads<br/>cd uploads<br/>git clone https://github.com/ian-weisser/data          # Setup the local 'data' repository<br/>git clone https://github.com/ian-weisser/weather       # Setup the local 'software' repository<br/>weather/nws_database_creator.py                        # Use the script to update CSVs in ~/uploads/data<br/>cd data<br/>git config --global user.email "my_email@example.com"  # First time setup<br/>git config --global user.name "My Name"                # First time setup<br/>git config credential.helper store                     # First time using this repo setup<br/>git add -A<br/>git commit -m "Test update"<br/>git push origin master<br/>  Username for 'https://github.com': my-github-login-name   # First time using this repo setup<br/>  Password for 'https://my-github-login-name@github.com':   # First time using this repo setup<br/></pre><br/><br/><h2>Automating the process</h2>So now subsequently, without all the first time setup:<br/><br/><pre>#!/bin/sh<br/><br/>dir=/home/ian/uploads<br/>hub="https://github.com/ian-weisser"<br/>now=$(/bin/date +%F)<br/><br/>cd $dir/weather<br/>/usr/bin/git pull "$hub"/weather      # Update the database_creator script<br/><br/>cd $dir/data<br/>/usr/bin/git pull "$hub"/data         # Need to pull to be able to push later<br/><br/>$dir/weather/nws_database_creator.py  # Do the update<br/>/usr/bin/git add -A                   # Record any changes<br/>/usr/bin/git commit -m "Scheduled update $now"<br/>/usr/bin/git push origin master<br/>exit 0<br/></pre><br/><br/>And now we can run the shell script weekly from a user cron job:<br/><br/><pre>5 6 * * 7 /home/ian/uploads/cron/weekly_weather &gt; /home/ian/uploads/weather.log 2&gt;&amp;1</pre><br/><br/>A couple of tests, and it works.<br/><br/>It's completely automatic.<br/><br/>Once a week, my server downloads the latest make-a-database script, builds the database, and uploads the database to GitHub for the world to use. <br/><br/><br/><h2>The data</h2><br/>If you want to see the final product (the lat/lon lookup tables for US weather), you can get them at:<br/><a href="https://raw.githubusercontent.com/ian-weisser/data/master/metar.csv">https://raw.githubusercontent.com/ian-weisser/data/master/metar.csv</a><br/><a href="https://raw.githubusercontent.com/ian-weisser/data/master/radar.csv">https://raw.githubusercontent.com/ian-weisser/data/master/radar.csv</a><br/><a href="https://raw.githubusercontent.com/ian-weisser/data/master/zone.csv">https://raw.githubusercontent.com/ian-weisser/data/master/zone.csv</a><br/><br/>They will, of course, be automatically updated weekly.</div>
+    </content>
+    <updated>2014-12-13T02:40:28Z</updated>
+    <published>2014-12-13T02:40:00Z</published>
+    <category scheme="http://www.blogger.com/atom/ns#" term="git"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="GitHub"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="National Weather Service"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="server"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="weather"/>
+    <author>
+      <name>Ian</name>
+      <email>noreply@blogger.com</email>
+      <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+    </author>
+    <source>
+      <id>tag:blogger.com,1999:blog-2703060415027607989</id>
+      <category term="python"/>
+      <category term="command-line"/>
+      <category term="Ubuntu"/>
+      <category term="planet-ubuntu"/>
+      <category term="Debian"/>
+      <category term="bug"/>
+      <category term="dbus"/>
+      <category term="server"/>
+      <category term="Xubuntu"/>
+      <category term="install"/>
+      <category term="bash"/>
+      <category term="superseded"/>
+      <category term="cron"/>
+      <category term="Find-A-Task"/>
+      <category term="GPS"/>
+      <category term="dbus-send"/>
+      <category term="fail"/>
+      <category term="grub"/>
+      <category term="upstart"/>
+      <category term="weather"/>
+      <category term="5000-L"/>
+      <category term="Brainstorm"/>
+      <category term="Epia"/>
+      <category term="Linux"/>
+      <category term="National Weather Service"/>
+      <category term="Network Manager"/>
+      <category term="Simutrans"/>
+      <category term="e-mail"/>
+      <category term="geolocation"/>
+      <category term="imagemagick"/>
+      <category term="openoffice"/>
+      <category term="ssh"/>
+      <category term="vala"/>
+      <category term="OSX"/>
+      <category term="USB"/>
+      <category term="VIA"/>
+      <category term="debootstrap"/>
+      <category term="fanless"/>
+      <category term="gpsd"/>
+      <category term="html"/>
+      <category term="initramfs"/>
+      <category term="package management"/>
+      <category term="socket"/>
+      <category term="sound"/>
+      <category term="svg"/>
+      <category term="torrent"/>
+      <category term="xml"/>
+      <category term="931181"/>
+      <category term="CAC"/>
+      <category term="D-feet"/>
+      <category term="DVD"/>
+      <category term="MacBook"/>
+      <category term="OLPC"/>
+      <category term="USB-ZIP"/>
+      <category term="XP"/>
+      <category term="apt-get"/>
+      <category term="bashrc"/>
+      <category term="curl"/>
+      <category term="evolution"/>
+      <category term="gtfs"/>
+      <category term="iptables"/>
+      <category term="kernel"/>
+      <category term="kingbaron"/>
+      <category term="map"/>
+      <category term="music"/>
+      <category term="nail"/>
+      <category term="odt"/>
+      <category term="python3-gi"/>
+      <category term="route"/>
+      <category term="schedule"/>
+      <category term="sha-1"/>
+      <category term="startup"/>
+      <category term="timetable"/>
+      <category term="transit"/>
+      <category term="trip"/>
+      <category term="zenity"/>
+      <category term="355209"/>
+      <category term="DSL"/>
+      <category term="Deluge"/>
+      <category term="FLAC"/>
+      <category term="GeoClue"/>
+      <category term="GitHub"/>
+      <category term="Google Maps"/>
+      <category term="IDE"/>
+      <category term="METAR"/>
+      <category term="NTFS"/>
+      <category term="QuickBooks"/>
+      <category term="S518"/>
+      <category term="Sangoma"/>
+      <category term="Synaptic"/>
+      <category term="TomTom"/>
+      <category term="UDS"/>
+      <category term="USB-to-serial adapter"/>
+      <category term="Unity"/>
+      <category term="Unix Domain socket"/>
+      <category term="VM"/>
+      <category term="anacron"/>
+      <category term="apt-cache"/>
+      <category term="blog"/>
+      <category term="businesscard"/>
+      <category term="c"/>
+      <category term="certificates"/>
+      <category term="compile"/>
+      <category term="convert"/>
+      <category term="crontab"/>
+      <category term="css"/>
+      <category term="current conditions"/>
+      <category term="ddclient"/>
+      <category term="debtorrent"/>
+      <category term="dhcp"/>
+      <category term="diff"/>
+      <category term="dpkg"/>
+      <category term="dvd::rip"/>
+      <category term="firefox"/>
+      <category term="firewall"/>
+      <category term="forecast"/>
+      <category term="fwknop"/>
+      <category term="gdbm"/>
+      <category term="geocode-glib"/>
+      <category term="getty"/>
+      <category term="git"/>
+      <category term="grep"/>
+      <category term="iBook"/>
+      <category term="import"/>
+      <category term="introspection"/>
+      <category term="irssi"/>
+      <category term="jablicator"/>
+      <category term="log"/>
+      <category term="logging"/>
+      <category term="medibuntu"/>
+      <category term="mgrs"/>
+      <category term="modem"/>
+      <category term="mount"/>
+      <category term="netinstall"/>
+      <category term="ntp"/>
+      <category term="odg"/>
+      <category term="package"/>
+      <category term="patch"/>
+      <category term="pci"/>
+      <category term="pdf"/>
+      <category term="port"/>
+      <category term="pygtk"/>
+      <category term="pynotify"/>
+      <category term="python-dbus"/>
+      <category term="rmadison"/>
+      <category term="rss"/>
+      <category term="rsyslog"/>
+      <category term="scan"/>
+      <category term="serial"/>
+      <category term="shapefile"/>
+      <category term="skype"/>
+      <category term="ssmtp"/>
+      <category term="strings"/>
+      <category term="sudo"/>
+      <category term="sudoers"/>
+      <category term="syslinux"/>
+      <category term="syslog"/>
+      <category term="terminal"/>
+      <category term="tty"/>
+      <category term="visudo"/>
+      <category term="webserver"/>
+      <category term="wget"/>
+      <category term="wine"/>
+      <category term="-39"/>
+      <category term=".desktop"/>
+      <category term=".epub"/>
+      <category term=".lit"/>
+      <category term=".qbw"/>
+      <category term="0003:0D8C:000C.0003"/>
+      <category term="109917"/>
+      <category term="11.10"/>
+      <category term="117984"/>
+      <category term="158706"/>
+      <category term="189642"/>
+      <category term="302"/>
+      <category term="3689"/>
+      <category term="3g2"/>
+      <category term="858122"/>
+      <category term="AKO Instant Messenger"/>
+      <category term="AR9721"/>
+      <category term="Amtrak"/>
+      <category term="Appleworks"/>
+      <category term="Application Indicator"/>
+      <category term="Bean"/>
+      <category term="Blogger"/>
+      <category term="C-Media"/>
+      <category term="CHKDSK"/>
+      <category term="DNS-321"/>
+      <category term="DOD"/>
+      <category term="E625-5192"/>
+      <category term="ElementTree"/>
+      <category term="EtherWrite"/>
+      <category term="GIMP"/>
+      <category term="Garmin"/>
+      <category term="GeoIP"/>
+      <category term="Google+"/>
+      <category term="Journal"/>
+      <category term="LAMP"/>
+      <category term="LXC"/>
+      <category term="LaserWriter 4/600"/>
+      <category term="LiMux"/>
+      <category term="LiveCD"/>
+      <category term="Munich"/>
+      <category term="NAS"/>
+      <category term="National Digital Forecast Database"/>
+      <category term="OCR"/>
+      <category term="Outlook Express"/>
+      <category term="Pidgin"/>
+      <category term="RAID 1"/>
+      <category term="RESTful"/>
+      <category term="RS232"/>
+      <category term="RTFM"/>
+      <category term="Rubik's Cube"/>
+      <category term="SCX-4725"/>
+      <category term="SD"/>
+      <category term="Screen"/>
+      <category term="Shuttle"/>
+      <category term="TCP"/>
+      <category term="TL-WN722N"/>
+      <category term="Tesseract"/>
+      <category term="Thunar"/>
+      <category term="USB-FDD"/>
+      <category term="V745A"/>
+      <category term="Vicks"/>
+      <category term="Windows XP"/>
+      <category term="Wordpress"/>
+      <category term="XO"/>
+      <category term="[]"/>
+      <category term="abcde"/>
+      <category term="abiword"/>
+      <category term="add-remove"/>
+      <category term="admin"/>
+      <category term="ai"/>
+      <category term="alerts"/>
+      <category term="alias"/>
+      <category term="alternate CD"/>
+      <category term="amixer"/>
+      <category term="anacrontab"/>
+      <category term="aplay"/>
+      <category term="apt"/>
+      <category term="apt-move"/>
+      <category term="apt-rdepends"/>
+      <category term="aptitude"/>
+      <category term="aria2c"/>
+      <category term="asknot"/>
+      <category term="aspell"/>
+      <category term="atd"/>
+      <category term="ath9k_htc"/>
+      <category term="audio"/>
+      <category term="autostart"/>
+      <category term="avahi"/>
+      <category term="avahi-discover"/>
+      <category term="backports"/>
+      <category term="backup"/>
+      <category term="backup-manager"/>
+      <category term="blacklist"/>
+      <category term="brasero"/>
+      <category term="broken"/>
+      <category term="cackey"/>
+      <category term="checksum"/>
+      <category term="clit"/>
+      <category term="clock"/>
+      <category term="color"/>
+      <category term="configparse"/>
+      <category term="console"/>
+      <category term="console-kit"/>
+      <category term="container"/>
+      <category term="copy"/>
+      <category term="crash"/>
+      <category term="crda"/>
+      <category term="cups"/>
+      <category term="dash"/>
+      <category term="dbm"/>
+      <category term="ddns"/>
+      <category term="deb"/>
+      <category term="deborphan"/>
+      <category term="defrag"/>
+      <category term="degraded array"/>
+      <category term="deluged"/>
+      <category term="dependencies"/>
+      <category term="desktop"/>
+      <category term="developer.ubuntu.com"/>
+      <category term="devscripts"/>
+      <category term="diagram"/>
+      <category term="disk utility"/>
+      <category term="dmesg"/>
+      <category term="dos"/>
+      <category term="drive"/>
+      <category term="dvdcopy"/>
+      <category term="ebook"/>
+      <category term="environment variable"/>
+      <category term="etherape"/>
+      <category term="etrex"/>
+      <category term="external monitor"/>
+      <category term="favicon"/>
+      <category term="fbreader"/>
+      <category term="file sharing"/>
+      <category term="firefly"/>
+      <category term="fix"/>
+      <category term="font"/>
+      <category term="format"/>
+      <category term="gateway"/>
+      <category term="geoclue-test-gui"/>
+      <category term="gif"/>
+      <category term="gnome-keyring"/>
+      <category term="go"/>
+      <category term="gobject"/>
+      <category term="hal"/>
+      <category term="hard drive"/>
+      <category term="hdparm"/>
+      <category term="headless"/>
+      <category term="headset"/>
+      <category term="hosts.deny"/>
+      <category term="http.server"/>
+      <category term="httplib2"/>
+      <category term="humidifier"/>
+      <category term="iMac"/>
+      <category term="icon"/>
+      <category term="imagemap"/>
+      <category term="initctl"/>
+      <category term="initctl2dot"/>
+      <category term="initrd"/>
+      <category term="inkscape"/>
+      <category term="intel_rng"/>
+      <category term="interprocess"/>
+      <category term="iwlist"/>
+      <category term="javascript"/>
+      <category term="jpg"/>
+      <category term="korinthian violins"/>
+      <category term="launchd"/>
+      <category term="library"/>
+      <category term="list"/>
+      <category term="lit2epub"/>
+      <category term="localtalk"/>
+      <category term="logger"/>
+      <category term="logging.handlers"/>
+      <category term="login"/>
+      <category term="logoff"/>
+      <category term="logout"/>
+      <category term="logrotate"/>
+      <category term="make-kpkg"/>
+      <category term="mdadm"/>
+      <category term="metapackage"/>
+      <category term="mirror"/>
+      <category term="missing"/>
+      <category term="moderator"/>
+      <category term="mozilla"/>
+      <category term="mp3"/>
+      <category term="mt-daapd"/>
+      <category term="netatalk"/>
+      <category term="netcat"/>
+      <category term="notification"/>
+      <category term="null-modem"/>
+      <category term="pacmd"/>
+      <category term="palette"/>
+      <category term="phone"/>
+      <category term="pipe"/>
+      <category term="plist"/>
+      <category term="png"/>
+      <category term="popen"/>
+      <category term="port knock"/>
+      <category term="printer"/>
+      <category term="process"/>
+      <category term="ps"/>
+      <category term="ps2pdf"/>
+      <category term="pulseaudio"/>
+      <category term="python3-gdbm"/>
+      <category term="qbfc"/>
+      <category term="qbxml"/>
+      <category term="radar"/>
+      <category term="rdiff-backup"/>
+      <category term="realtime"/>
+      <category term="reboot"/>
+      <category term="redirect"/>
+      <category term="remount"/>
+      <category term="resume"/>
+      <category term="reviewer"/>
+      <category term="router"/>
+      <category term="rsnapshot"/>
+      <category term="runlevel"/>
+      <category term="samba"/>
+      <category term="security"/>
+      <category term="services-admin"/>
+      <category term="set"/>
+      <category term="signals"/>
+      <category term="skype4pidgin"/>
+      <category term="slocate"/>
+      <category term="snd-hda-intel"/>
+      <category term="speaker"/>
+      <category term="spelling"/>
+      <category term="sql"/>
+      <category term="sqlite"/>
+      <category term="sshd"/>
+      <category term="sshfs"/>
+      <category term="status"/>
+      <category term="stop"/>
+      <category term="stop_times.txt"/>
+      <category term="string arrays"/>
+      <category term="subprocess"/>
+      <category term="success"/>
+      <category term="systemd"/>
+      <category term="tiff"/>
+      <category term="tkinter"/>
+      <category term="top"/>
+      <category term="trace bitmap"/>
+      <category term="trackpad"/>
+      <category term="train"/>
+      <category term="transcode"/>
+      <category term="update-grub"/>
+      <category term="update-notifier"/>
+      <category term="upstart-monitor"/>
+      <category term="valve"/>
+      <category term="vapi"/>
+      <category term="vga"/>
+      <category term="video"/>
+      <category term="vista"/>
+      <category term="warnings"/>
+      <category term="watches"/>
+      <category term="weather-util"/>
+      <category term="weather-util-data"/>
+      <category term="web scraper"/>
+      <category term="wireless"/>
+      <category term="wireless dongle"/>
+      <category term="wodim"/>
+      <category term="xdot"/>
+      <category term="xrandr"/>
+      <author>
+        <name>Ian</name>
+        <email>noreply@blogger.com</email>
+        <uri>http://www.blogger.com/profile/13159046087533726064</uri>
+      </author>
+      <link href="http://cheesehead-techblog.blogspot.com/feeds/posts/default" rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default" rel="self" type="application/atom+xml"/>
+      <link href="http://cheesehead-techblog.blogspot.com/" rel="alternate" type="text/html"/>
+      <link href="http://pubsubhubbub.appspot.com/" rel="hub" type="text/html"/>
+      <link href="http://www.blogger.com/feeds/2703060415027607989/posts/default?start-index=26&amp;max-results=25" rel="next" type="application/atom+xml"/>
+      <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I document my adventures and problems so that I remember my mistakes, and perhaps you may learn something.<br/>I'm not a programmer, nor a computer expert.<br/>I'm just a tinkering guy in Milwaukee with a store and three kids to keep me busy.</div>
+      </subtitle>
+      <title>Ian's TechBlog</title>
+      <updated>2016-01-25T02:51:30Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en-US">
+    <id>http://anthonyrhook.com/?p=12</id>
+    <link href="http://anthonyrhook.com/vsphere-cpu-ready-time/" rel="alternate" type="text/html"/>
+    <title>vSphere CPU ready time</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Bored, nothing to do, and checking out your performance metrics?  First off, use VMware vRealize Operations (vROps, formerly vCOps), and take up a new hobby in all your spare time; thank <a class="more-link" href="http://anthonyrhook.com/vsphere-cpu-ready-time/">[…]</a></div>
+    </summary>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Bored, nothing to do, and checking out your performance metrics?  First off, use <a href="http://www.vmware.com/products/vrealize-operations" title="vROps">VMware vRealize Operations (vROps, formerly vCOps)</a>, and take up a new hobby in all your spare time; thank me later.  Still need to take a look because you’re troubleshooting a slow VM?  Concerned about if you’re oversubscribing your CPUs?  High kernel times?</p>
+<p><a href="http://anthonyrhook.com/wp-content/uploads/2014/12/56936151.jpg"><img alt="Why can't I hold all of these metrics" class="aligncenter wp-image-40 size-medium" height="300" src="http://anthonyrhook.com/wp-content/uploads/2014/12/56936151-225x300.jpg" width="225"/></a></p>
+<p>A basic explanation of <strong>CPU Ready Time</strong> is: how long is your virtual machine is waiting in line to use the CPU on the host?  There is a very acceptable percentage (in general, under 10%, more on that below), however oversubscribing will definitely cause you (or clients) headaches.  An example of when you have this problem is a generally slow VM, but task manager/TOP isn’t showing something eating up all your CPU, and all other metrics look fine.  Extreme cases will make the VM’s clock slow.  Perhaps high kernel time?  <a href="http://vmtoday.com/2010/08/high-cpu-ready-poor-performance/">Josh at vmtoday</a> has an <a href="http://b2ni443367y3wt3t91svwsbbky.wpengine.netdna-cdn.com/wp-content/uploads/sites/11/2010/08/highkerneltime.png">image </a>of this example on his very relevant post.</p>
+<p>When you look at these graphs and see high numbers, don’t necessarily worry.  There’s a pretty easy formula to figure out what you’re looking at.  In the example I’m using below, I’m using the performance chart for the VM, realtime, which has a metric rollup time of 20 seconds.  Here’s how I got it to that, and what it looks like:</p>
+<p> </p>
+<figure class="wp-caption alignnone" id="attachment_37" style="width: 300px;"><a href="http://anthonyrhook.com/wp-content/uploads/2014/12/ChartOptions.png"><img alt="Performance Options" class="wp-image-37 size-medium" height="181" src="http://anthonyrhook.com/wp-content/uploads/2014/12/ChartOptions-300x181.png" width="300"/></a>Performance Options</figure>
+<figure class="wp-caption alignnone" id="attachment_38" style="width: 300px;"><a href="http://anthonyrhook.com/wp-content/uploads/2014/12/exported.jpg"><img alt="Realtime CPU Ready" class="wp-image-38 size-medium" height="182" src="http://anthonyrhook.com/wp-content/uploads/2014/12/exported-300x182.jpg" width="300"/></a>Realtime CPU Ready</figure>
+<p>If you’re looking at graphs of different timeframes, you want to use a separate number in the formula:</p>
+<ul>
+<li>Realtime: <strong>20 seconds</strong><em> – We’re using this one in my example</em></li>
+<li>Past Day: 5 minutes <strong>(300 seconds)</strong></li>
+<li>Past Week: 30 minutes <strong>(1800 seconds)</strong></li>
+<li>Past Month: 2 hours <strong>(7200 seconds)</strong></li>
+<li>Past Year: 1 day <strong>(86400 seconds)</strong></li>
+</ul>
+<blockquote><p>(CPU summation value / (&lt;Chart Interval in Seconds&gt; * 1000)) * 100 = % CPU ready</p></blockquote>
+<p>It’s probably hard to see, but I’m interested in the VM average of 547 at a realtime (20 second) interval.  I toss those numbers into the formula:</p>
+<blockquote><p>(<strong>547</strong> / (<strong>20 </strong>seconds * 1000)) * 100 = <strong>2.73% CPU Ready</strong></p></blockquote>
+<p>With only 2.73% CPU ready time, I can see this VM isn’t having any CPU problems.</p>
+<p><a href="http://www.vkernel.com/files/docs/white-papers/demystifying-cpu-ready.pdf">Some </a>different <a href="http://vmdamentals.com/?p=44">resources </a>concur <a href="http://vmtoday.com/2013/01/cpu-ready-revisted-quick-reference-charts/">that </a>up to 10% is acceptable, but something over 10% should require some reviewing.  Keep in mind the time-frame you’re looking at this:  realtime during high production times may not be the most accurate for an overview.  If that’s the case, check out a daily or weekly average instead.</p>
+<p>Additional resources on this topic including all about using CPU affinity:</p>
+<ul>
+<li><a href="http://www.vmware.com/pdf/Perf_Best_Practices_vSphere5.5.pdf">Performance Best Practices for VMware vSphere 5.5</a> (PDF)</li>
+<li><a href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&amp;cmd=displayKC&amp;externalId=2002181">VMware KB 2002181: Converting Between CPU Summation and CPU Ready Time</a></li>
+<li><a href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&amp;cmd=displayKC&amp;externalId=2001003">VMware KB 2001003: Troubleshooting ESXi Virtual Machine Performance Issues</a></li>
+<li><a href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&amp;cmd=displayKC&amp;externalId=2001003">VMware Whitepaper: CPU Scheduler in vSphere 5.1(PDF)</a></li>
+<li><a href="http://frankdenneman.nl/2011/01/11/beating-a-dead-horse-using-cpu-affinity/">Beating a dead horse – using CPU affinity – Frank Denneman</a></li>
+</ul></div>
+    </content>
+    <updated>2014-12-08T21:07:52Z</updated>
+    <category term="Management"/>
+    <category term="Resources"/>
+    <category term="VMware"/>
+    <category term="CPU"/>
+    <category term="ready"/>
+    <category term="vSphere"/>
+    <author>
+      <name>anthony</name>
+    </author>
+    <source>
+      <id>http://anthonyrhook.com</id>
+      <link href="http://anthonyrhook.com/feed/" rel="self" type="application/rss+xml"/>
+      <link href="http://anthonyrhook.com" rel="alternate" type="text/html"/>
+      <subtitle>death before decaf</subtitle>
+      <title>this is the hook</title>
+      <updated>2016-02-02T18:34:51Z</updated>
+    </source>
+  </entry>
+
+  <entry xml:lang="en-US">
+    <id>http://anthonyrhook.com/?p=26</id>
+    <link href="http://anthonyrhook.com/on-brown-bags/" rel="alternate" type="text/html"/>
+    <title>On Brown Bags</title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I’m a part of professionalvmware.com‘s vBrownBag team.  I work with awesome people to bring in experts a broad range of topics, from virtualization, networking, datacenter technology, and more.  They are free, <a class="more-link" href="http://anthonyrhook.com/on-brown-bags/">[…]</a></div>
+    </summary>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>I’m a part of <a href="http://professionalvmware.com" target="_blank" title="professionalvmware.com">professionalvmware.com</a>‘s vBrownBag team.  I work with awesome people to bring in experts a broad range of topics, from virtualization, networking, datacenter technology, and more.  They are free, and recorded so you can watch them anywhere!  You can read more about it <a href="http://professionalvmware.com" target="_blank" title="here">here</a>.</p>
+<p>This isn’t directly related to the vBrownBag community, but more the concept of the “Brown Bag” in general.  Wikipedia has a <a href="http://en.wikipedia.org/wiki/Brown-bag_seminar" target="_blank" title="short and sweet article">short-and-sweet article</a> on the topic if you aren’t familiar.</p>
+<p>Before I knew the wonder that is the vBrownBag community, I had started a Brown Bag series at my workplace.</p>
+<p>In doing managed services, we have some knowledge separation between our network engineer (installation engineers) and the managed service team (helpdesk and NOC). Lunch is a perfect time to talk with subject-matter experts without getting in the way of daily work. What’s better than free learning? <em>okay, free beer, but I digress…</em></p>
+<p>This wasn’t just limited to technical topics, but also open to other departments (Sales–&gt;Sales, Technical–&gt;Sales, etc).</p>
+<p>Fast-forward a year and a half; I have presented the majority of the Brown Bags. I made them interactive and fun, and was met with rave reviews. People initially sounded excited to both share and learn, but hardly anyone had follow-through for both presenting and attendance.</p>
+<p>I’ve tried incentives like free pizza, reminders, spoon-fed ideas for others to present about (almost to the point of assigning topics), but I wanted it to be strictly on a volunteer-only basis.</p>
+<p>The concept was well received and encouraged by management, but just didn’t have the traction I expected with any of the teams I had expected.  Low presenter diversity, along with a lack of attendance is really holding my spirits low.</p>
+<p>Has anyone started something similar in their workplace?  Do I need to be more patient and wait for traction to somehow pick up?  Perhaps I need to understand that not everyone wants to grow or share their knowledge like this.  Right now, I’ve resolved to step back for an undetermined period and see if anyone else steps up.</p></div>
+    </content>
+    <updated>2014-11-14T02:05:57Z</updated>
+    <category term="Community"/>
+    <category term="VMware"/>
+    <author>
+      <name>anthony</name>
+    </author>
+    <source>
+      <id>http://anthonyrhook.com</id>
+      <link href="http://anthonyrhook.com/feed/" rel="self" type="application/rss+xml"/>
+      <link href="http://anthonyrhook.com" rel="alternate" type="text/html"/>
+      <subtitle>death before decaf</subtitle>
+      <title>this is the hook</title>
+      <updated>2016-02-02T18:34:51Z</updated>
     </source>
   </entry>
 </feed>

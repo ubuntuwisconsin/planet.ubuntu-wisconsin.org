@@ -15,6 +15,9 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="http://ubuntu-wisconsin.org/blog/2016/01/27/" />
+			<rdf:li rdf:resource="http://ubuntu-wisconsin.org/blog/2016/01/20/" />
+			<rdf:li rdf:resource="http://ubuntu-wisconsin.org/blog/2016/01/15/" />
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-7286433965252748885" />
 			<rdf:li rdf:resource="http://anthonyrhook.com/?p=70" />
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-5297523414793422118" />
@@ -23,12 +26,234 @@
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-502961796663047718" />
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-8544696580672526309" />
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-1943307357377974624" />
+			<rdf:li rdf:resource="http://theputnams.net/mike/2015-06-30-coder-cooperative.htm" />
 			<rdf:li rdf:resource="http://anthonyrhook.com/?p=56" />
 			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-6052030982044558103" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-425209289269254275" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-546955353010904541" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-3615905999005003164" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-2703060415027607989.post-2432053774030148130" />
+			<rdf:li rdf:resource="http://anthonyrhook.com/?p=12" />
+			<rdf:li rdf:resource="http://anthonyrhook.com/?p=26" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="http://ubuntu-wisconsin.org/blog/2016/01/27/">
+	<title>Ubuntu US Wisconsin LoCo Team Blog: About our Mailing List</title>
+	<link>http://ubuntu-wisconsin.org/blog/2016/01/27/</link>
+	<content:encoded>&lt;h3&gt;Post by Simon Quigley (tsimonq2)&lt;/h3&gt;
+                    &lt;p&gt;
+                        Instead of having our mailing list through Ubuntu Lists, we have it through Launchpad.
+                        There are a lot of advantages to having this setup, but before I outline those, I would like to explain what goes on the mailing list.
+                        Every week, I forward the Ubuntu Weekly Newsletter on to the mailing list with a quick little comment about our recent blog post like I am probably going to do soon.
+                        I also forward the Kernel Team newsletter on, although before I started doing this, I sent an email to the list explaining this. This might change in the future.
+                        Along with the newsletters, I send details about our next meeting 2 weeks and 24 hours(to clear up confusion, two seperate emails, one 2 weeks before and one 24 hours before) before our next monthly meeting describing the details such as the agenda and general encouragement to participate.
+                        I will make a blog post next week describing our monthly meeting process, because next week is when I do the prep either way.
+                        Also, if members have questions about the LoCo, this is the place to ask them and get feedback, such as the planning for our Xenial Xerus release party.
+                    &lt;/p&gt;
+                    &lt;br /&gt;
+                    &lt;p&gt;
+                        Here are the advantages and disadvantages of using Launchpad for our mailing list:
+                    &lt;/p&gt;
+                    &lt;br /&gt;
+                    &lt;p&gt;
+                        &lt;b&gt;Advantages:&lt;/b&gt;
+                    &lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            When a new member joins the team, they already have a Launchpad account, and it is easy to subscribe
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            When a new member joins the Launchpad team, they can subscribe to the mailing list while joining
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            The archives are organized well, with many useful features for viewing them
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            I can see who is subscribed and how many members, with links to their Launchpad pages
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            I can easily view scrubbed HTML attachments
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        &lt;b&gt;Disadvantages:&lt;/b&gt;
+                    &lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            It is not on an *.ubuntu.com domain
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            The mailing list archives can be a bit slow to show up on the page for this, although it has gotten better and it is being addressed
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            This isn't necessarily traditional for a LoCo to do, as far as I know
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            It isn't approved by the LoCo Council (yet)
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;p&gt;
+                        Although it has it's downsides, using Launchpad for our mailing list has been very smooth for us and the advantages outweigh the disadvantages, in my honest opinion.
+                        So we will continue to use it.
+                    &lt;/p&gt;
+                    &lt;br /&gt;
+                    &lt;p&gt;
+                        This concludes the blog post about our wiki page. If you have any questions/comments/concerns about this blog post or the mailing list, please contact Simon Quigley or stop by #ubuntu-us-wi on Freenode.
+                    &lt;/p&gt;</content:encoded>
+	<dc:date>2016-01-27T20:00:00+00:00</dc:date>
+	<dc:creator>Simon Quigley</dc:creator>
+</item>
+<item rdf:about="http://ubuntu-wisconsin.org/blog/2016/01/20/">
+	<title>Ubuntu US Wisconsin LoCo Team Blog: Tour of our Wiki Page</title>
+	<link>http://ubuntu-wisconsin.org/blog/2016/01/20/</link>
+	<content:encoded>&lt;h3&gt;Post by Simon Quigley (tsimonq2)&lt;/h3&gt;
+                    &lt;p&gt;
+                        We have set up a wiki page for existing members to use as a resource for doing LoCo related tasks.
+                        This blog post is a walkthrough of the wiki page, and the resources we have in place.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        &lt;a href=&quot;https://wiki.ubuntu.com/WisconsinTeam&quot; style=&quot;color: blue;&quot;&gt;The main page&lt;/a&gt;
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        On the very top of the page are details about our next IRC and monthly meetings.
+                        We also have other pages listed that I will describe in a bit.
+                        In addition, we have brief information about our Local Community team.
+                        &lt;br /&gt;
+                        &lt;br /&gt;
+                        After the top part, we have the &lt;b&gt;Joining&lt;/b&gt;, &lt;b&gt;Events&lt;/b&gt;, and &lt;b&gt;Meetings&lt;/b&gt; headers.
+                        Under the &lt;b&gt;Joining&lt;/b&gt; header, we have a link to our NewMemberOrientation page, which I will describe in a bit.
+                        Under the &lt;b&gt;Events&lt;/b&gt; header, we have a link to the LoCo Portal that has our upcoming events.
+                        At the time of writing this, we don't have any upcoming events, but once we do, it will go on the wiki page under his header.
+                        Under the &lt;b&gt;Meetings&lt;/b&gt; header, we have a link to the LoCo Portal that has our upcoming meetings.
+                        A blog post will be written describing our meetings in the future, although if you would like to check that out and discover yourself, go ahead.
+                        &lt;br /&gt;
+                        &lt;br /&gt;
+                        The final header on the wiki page is &lt;b&gt;Communication&lt;/b&gt;.
+                        This section has some useful resources that are occasionally used by our members.
+                        It will get a little revamping after Alex finishes making some orange badges for Reddit and such.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        &lt;a href=&quot;https://wiki.ubuntu.com/WisconsinTeam/MeetingAgendas&quot; style=&quot;color: blue;&quot;&gt;MeetingAgendas&lt;/a&gt;
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        On this page, we have Meeting Agendas.
+                        Every monthly meeting we have, the meeting chair (usually myself) updates this page.
+                        It just has the agendas, which will be explained in a future blog post.
+                        Also, whenever we have a successful IRC meeting, the IRC logs go here.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        &lt;a href=&quot;https://wiki.ubuntu.com/WisconsinTeam/NewMemberOrientation&quot; style=&quot;color: blue;&quot;&gt;NewMemberOrientation&lt;/a&gt;
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        This page is our (lowercase c) canonical resource for getting people started with our team.
+                        It provides all of the information needed to be considered an official member.
+                        It does need a bit of revising to strengthen the language and clarity (if you, the reader, feel inclined to take a look, by all means, go ahead), but this is the most solid resource we have.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        &lt;a href=&quot;https://wiki.ubuntu.com/WisconsinTeam/QuickStart&quot; style=&quot;color: blue;&quot;&gt;QuickStart&lt;/a&gt;
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        This is currently a bare page, with a lot of work needed.
+                        It is a huge concept I am working on with Alex.
+                        More information to come.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        &lt;a href=&quot;https://wiki.ubuntu.com/WisconsinTeam/TeamReports&quot; style=&quot;color: blue;&quot;&gt;TeamReports&lt;/a&gt;
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        This page is out of date.
+                        We plan on keeping our team reports here, but since we haven't really had any major meetings besides the monthly meeting and some IRC meetings that more than just 2 people attend, it isn't large enough yet to make a good team report.
+                        This will change in the future.
+                    &lt;/p&gt;
+                    &lt;br /&gt;
+                    &lt;p&gt;
+                        This concludes the walkthrough of our wiki page.
+                        If you have any questions/comments/concerns about this article or the wiki page, please contact tsimonq2 on Freenode or stop by #ubuntu-us-wi.
+                    &lt;/p&gt;</content:encoded>
+	<dc:date>2016-01-21T01:00:00+00:00</dc:date>
+	<dc:creator>Simon Quigley</dc:creator>
+</item>
+<item rdf:about="http://ubuntu-wisconsin.org/blog/2016/01/15/">
+	<title>Ubuntu US Wisconsin LoCo Team Blog: About the Ubuntu US Wisconsin Local Community Team</title>
+	<link>http://ubuntu-wisconsin.org/blog/2016/01/15/</link>
+	<content:encoded>&lt;h3&gt;Post by Simon Quigley (tsimonq2)&lt;/h3&gt;
+                    &lt;p&gt;
+                        This first blog post on behalf of the Ubuntu US Wisconsin LoCo Team is to explain some items about the team in general.
+                        If you have any questions/comments/concerns about any of this, please contact tsimonq2 on IRC or stop by #ubuntu-us-wi on Freenode.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        Who leads the LoCo?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        Simon Quigley is the main coordinator, contact, and facilitative leader for the team.
+                        Until the team grows a bit, he does the planning and execution of meetings and events for the team.
+                        He was appointed the position from Anthony Hook, the previous leader, in mid-November 2015.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        How many active members do you have?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        In Launchpad, we have 21 members.
+                        We have about 5-10 members who are very active, and a couple more who occasionally respond to threads on our Mailing List.
+                        When a new member joins, they get a one year term, and then they have to renew. This helps eliminate anyone who isn't active any more.
+                        A lot of the members were already there since the last bit of activity in 2012, but have stuck around.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        What do you use for a mailing list?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        Instead of using Ubuntu Mailing Lists, we use the Launchpad mailing list system.
+                        This makes it much easier for new members to join the mailing list after joining the LoCo.
+                        It is also easy to find if you can find our Launchpad page link.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        Are you on the Ubuntu Forums?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        We had a forum, but we voted to no longer use it due to the inactivity.
+                        Since we have a few Reddit experts in our team, we decided to use Reddit in place of that.
+                        Our subreddit is &lt;a href=&quot;https://www.reddit.com/r/ubuntuwisconsinloco&quot; style=&quot;color: blue;&quot;&gt;/r/ubuntuwisconsinloco&lt;/a&gt;.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        What other resources do you have established?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        &lt;/p&gt;&lt;ul&gt;
+                            &lt;li&gt;&lt;a href=&quot;https://wiki.ubuntu.com/WisconsinTeam&quot; style=&quot;color: blue;&quot;&gt;Wiki Page&lt;/a&gt; - meant as a base for already existing members&lt;/li&gt;
+                            &lt;li&gt;&lt;a href=&quot;https://launchpad.net/~ubuntu-us-wisconsin&quot; style=&quot;color: blue;&quot;&gt;Launchpad&lt;/a&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href=&quot;http://ubuntu-wisconsin.org/&quot; style=&quot;color: blue;&quot;&gt;ubuntu-wisconsin.org&lt;/a&gt; - The site you are currently on, a major work in progress, blog post to come&lt;/li&gt;
+                            &lt;li&gt;&lt;a href=&quot;https://lists.launchpad.net/ubuntu-us-wisconsin/&quot; style=&quot;color: blue;&quot;&gt;Mailing list&lt;/a&gt; - Team coordination&lt;/li&gt;
+                            &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ubuntuwisconsinloco&quot; style=&quot;color: blue;&quot;&gt;Subreddit&lt;/a&gt; - Non-LoCo-specific content for the LoCo, such as a trick that someone found, or a discussion about a piece of default software in Ubuntu&lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;p&gt;&lt;/p&gt;
+                    &lt;h2&gt;
+                        Are these approved by the LoCo Council?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        At the time of writing this, we are still waiting for feedback from the LoCo Council to see if our resources can be officially recognized, in order to be able to become verified.
+                    &lt;/p&gt;
+                    &lt;h2&gt;
+                        What other people help with the LoCo?
+                    &lt;/h2&gt;
+                    &lt;p&gt;
+                        &lt;b&gt;Alex Dueppen (adueppen)&lt;/b&gt; - Head of Graphic Design, Head of Reddit Operations.
+                        The LoCo would be a lot different if it weren't for his many hours of dedication to this team.
+                        &lt;br /&gt;
+                        &lt;b&gt;Anthony Hook (h00k)&lt;/b&gt; - Former LoCo Leader.
+                        Anthony has been essential for helping the LoCo start up again.
+                        Also, he spent a lot of valuable time with this LoCo before it was in the possession of Simon Quigley.
+                        This LoCo would most likely not exist without his help.
+                        &lt;br /&gt;
+                        &lt;b&gt;Mike Putnam (mikeputnam)&lt;/b&gt; - LUG Coordinator.
+                        Mike makes sure that scheduling is fine, and that it doesn't conflict with any other Linux events around the state.
+                        He also fills in for Simon when Simon isn't available (which is rare).
+                        He has provided a lot of valuable help to this team.
+                    &lt;/p&gt;</content:encoded>
+	<dc:date>2016-01-16T03:00:00+00:00</dc:date>
+	<dc:creator>Simon Quigley</dc:creator>
+</item>
 <item rdf:about="tag:blogger.com,1999:blog-2703060415027607989.post-7286433965252748885">
 	<title>Ian Weisser: Are you ready for new members?</title>
 	<link>http://cheesehead-techblog.blogspot.com/2015/12/are-you-ready-for-new-members.html</link>
@@ -85,6 +310,11 @@
 	<dc:date>2015-09-03T01:50:18+00:00</dc:date>
 	<dc:creator>Ian</dc:creator>
 </item>
+<item rdf:about="http://theputnams.net/mike/2015-06-30-coder-cooperative.htm">
+	<title>Mike Putnam: 2015-06-30-coder-cooperative</title>
+	<link>http://theputnams.net/mike/2015-06-30-coder-cooperative.htm</link>
+	<dc:date>2015-06-30T00:00:00+00:00</dc:date>
+</item>
 <item rdf:about="http://anthonyrhook.com/?p=56">
 	<title>Anthony Hook: WI-VMUG UserCon 2015 – Must-Have VMware Administration Tools</title>
 	<link>http://anthonyrhook.com/wi-vmug-usercon-2015-must-have-vmware-administration-tools/</link>
@@ -99,6 +329,83 @@
 	<content:encoded>&lt;a href=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-community-orange-hex.svg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-community-orange-hex.svg&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task&quot; target=&quot;_blank&quot;&gt;Find-a-Task&lt;/a&gt; is the Ubuntu community's job board for volunteers.&lt;br /&gt;&lt;h4&gt;&lt;i&gt; &lt;/i&gt;&lt;/h4&gt;&lt;h3&gt;Is your team listed?&lt;/h3&gt;&lt;br /&gt;It's the place for volunteers to find new, interesting, fulfilling ways to contribute to Ubuntu.&lt;br /&gt;It's the place for them to discover your team or project.&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;Get listed today!&lt;/h3&gt;&lt;br /&gt;We have made it super easy to get your team onto &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task&quot; target=&quot;_blank&quot;&gt;Find-a-Task&lt;/a&gt;: No login, no editing. Just jump into #ubuntu-community-team with a volunteer role in mind:&lt;br /&gt;&lt;br /&gt;Example:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Category: Programming&lt;/li&gt;&lt;li&gt;Role: QML De-frobber&lt;/li&gt;&lt;li&gt;Very short description: Get rid of QML Frob with the Ubuntu Frobbing Team&lt;/li&gt;&lt;li&gt;Landing page: http://wiki.ubuntu.com/FrobbingTeam/QMLDefrobber&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;That's right...you can list technical roles, too. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;Nah, I don't want volunteers&lt;/h3&gt;&lt;br /&gt;If the old way is working for you, and your team has lots of spare capacity, then more power to you! Please share your secret sauce.&lt;br /&gt;&lt;br /&gt;But if you could use a few more hands to grab a work item or two, a &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task&quot; target=&quot;_blank&quot;&gt;Find-a-Task&lt;/a&gt; listing is fast and simple.&lt;br /&gt;&lt;br /&gt;You really should, you know.&lt;br /&gt;&lt;br /&gt;</content:encoded>
 	<dc:date>2015-01-22T14:43:54+00:00</dc:date>
 	<dc:creator>Ian</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-2703060415027607989.post-425209289269254275">
+	<title>Ian Weisser: Introducing Ubuntu Find-A-Task</title>
+	<link>http://cheesehead-techblog.blogspot.com/2015/01/introducing-ubuntu-find-task.html</link>
+	<content:encoded>&lt;br /&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-community-orange-hex.svg&quot; width=&quot;80px&quot; /&gt;&lt;/div&gt;&lt;br /&gt;The Ubuntu Community website has an awesome new service: &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task/&quot; target=&quot;_blank&quot;&gt;Find-A-Task&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;It's a referral service - it helps volunteers discover teams and tasks that match their interests.&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Link to it!&lt;/li&gt;&lt;li&gt;Refer new enthusiasts toward it!&lt;/li&gt;&lt;li&gt;Advertise your teams and projects on it!&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Give it a try and see how it can work for your team or project.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;&lt;a href=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-add-orange-hex.svg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-add-orange-hex.svg&quot; width=&quot;80px&quot; /&gt;&lt;/a&gt;How do I get my team listed?&lt;/h3&gt;&lt;br /&gt;So easy and so fast. &lt;br /&gt;&lt;ol&gt;&lt;li&gt;What volunteer role do you want to advertise?&lt;/li&gt;&lt;li&gt;What's a very short, exciting description of the role?&lt;/li&gt;&lt;li&gt;Which &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task/&quot; target=&quot;_blank&quot;&gt;Find-A-Task&lt;/a&gt; paths do you think this role is appropriate for?  &lt;/li&gt;&lt;li&gt;Create a great landing page on the wiki. (&lt;a href=&quot;https://wiki.ubuntu.com/QATeam/Roles/BugTriager&quot; target=&quot;_blank&quot;&gt;example&lt;/a&gt;)&lt;/li&gt;&lt;ul&gt;&lt;/ul&gt;&lt;li&gt;Drop by #ubuntu-community-team and let us know.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Role: Frobishers, &lt;/li&gt;&lt;li&gt;Description: &quot;Help Frobnicators add fabulous Frob!&quot;&lt;/li&gt;&lt;li&gt;Path: One, in the Coding and Development submenu&lt;/li&gt;&lt;li&gt;Landing URL http://wiki.ubuntu.com/FrobTeam/Frobishers&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;br /&gt;&lt;h3&gt;&lt;a href=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-articles-orange-hex.svg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-articles-orange-hex.svg&quot; width=&quot;80px&quot; /&gt;&lt;/a&gt;Your landing page: &lt;/h3&gt;&lt;br /&gt;This is a volunteer's first impression of your team. Make it shine.&lt;br /&gt;&lt;br /&gt;When volunteers show up at your wiki page, they are already  interested. They want to know how to set up, who to contact, and how to  get started on their first easy work item. They want instructions and details.&lt;br /&gt;&lt;br /&gt;If you don't provide what they want, they may move on to their next choice. &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task/&quot; target=&quot;_blank&quot;&gt;Find-A-Task&lt;/a&gt; makes it easy for them to move on.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;&lt;a href=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-thank_you-orange-hex.svg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://design.ubuntu.com/wp-content/uploads/pictogram-thank_you-orange-hex.svg&quot; width=&quot;80px&quot; /&gt;&lt;/a&gt;Credits&lt;/h3&gt;&lt;br /&gt;Tremendous thanks to:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mozilla.org/en-US/&quot; target=&quot;_blank&quot;&gt;Mozilla&lt;/a&gt; and &lt;a href=&quot;https://github.com/ian-weisser/asknot/graphs/contributors&quot; target=&quot;_blank&quot;&gt;85 contributors&lt;/a&gt; who created the excellent &lt;a href=&quot;http://whatcanidoformozilla.org/&quot; target=&quot;_blank&quot;&gt;AskNot&lt;/a&gt; that's under the hood of &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task/&quot; target=&quot;_blank&quot;&gt;Find-A-Task&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Thanks to &lt;a href=&quot;http://benjaminkerensa.com/&quot; target=&quot;_blank&quot;&gt;Benjamin Kerensa&lt;/a&gt; for the initial suggestion of using AskNot.&lt;/li&gt;&lt;li&gt;Thanks to &lt;a href=&quot;http://princessleia.com/journal/&quot; target=&quot;_blank&quot;&gt;Elizabeth Krumbach Joseph&lt;/a&gt; for assistance, and for all her previous hard work on a similar tool, much of it incorporated into &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task/&quot; target=&quot;_blank&quot;&gt;Find-A-Task&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Thanks to &lt;a href=&quot;http://mhall119.com/&quot; target=&quot;_blank&quot;&gt;Michael Hall&lt;/a&gt; for coming up with the name, and for getting &lt;a href=&quot;http://community.ubuntu.com/contribute/find-a-task/&quot; target=&quot;_blank&quot;&gt;Find-A-Task&lt;/a&gt; online at last.&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2015-01-13T17:50:06+00:00</dc:date>
+	<dc:creator>Ian</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-2703060415027607989.post-546955353010904541">
+	<title>Ian Weisser: Wordpress and LAMP in an LXC Container</title>
+	<link>http://cheesehead-techblog.blogspot.com/2014/12/lxc-containers-and-wordpress.html</link>
+	<content:encoded>&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;/div&gt;&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;float: right; margin-left: 1em; text-align: right;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-rgmKw3018eM/VJToWG2mRuI/AAAAAAAAA6E/FD6UUbroh4U/s1600/containers.png&quot; style=&quot;clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;165&quot; src=&quot;http://3.bp.blogspot.com/-rgmKw3018eM/VJToWG2mRuI/AAAAAAAAA6E/FD6UUbroh4U/s1600/containers.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Container&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br /&gt;I need to test some html running in Wordpress.&lt;br /&gt;But I don't use Wordpress...obviously.&lt;br /&gt;&lt;br /&gt;In Linux, that's easy to fix. Just install Wordpress.&lt;br /&gt;Oops, not so easy: Wordpress pulls in an entire LAMP stack with it.&lt;br /&gt;That's a lot to pollute my laptop with just to do some testing.&lt;br /&gt;&lt;br /&gt;Containers to the rescue!&lt;br /&gt;Let's spin up a container, install LAMP and Wordpress inside it, run the tests, then destroy the container.&lt;br /&gt;&lt;br /&gt;&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;float: right; text-align: right;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-rlE6RU5hLHs/VJTomvwESnI/AAAAAAAAA6M/RVtgDJCeXZk/s1600/wordpress-logo-notext-rgb.png&quot; style=&quot;clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;200&quot; src=&quot;http://1.bp.blogspot.com/-rlE6RU5hLHs/VJTomvwESnI/AAAAAAAAA6M/RVtgDJCeXZk/s1600/wordpress-logo-notext-rgb.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Cargo&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br /&gt;&lt;h3&gt;The Router&lt;/h3&gt;&lt;br /&gt;I'm going to open a whole new port on my router's firewall for this, so others can help me test.&lt;br /&gt;&lt;br /&gt;On the router, I want to forward port 112233 to the similar port on the server.&lt;br /&gt;&lt;br /&gt;On the server, I want to forward port 112233 to the container's port 80. (That part is later)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;Creating the container&lt;/h3&gt;&lt;br /&gt;Thanks the the amazing Stephane Graber for his &lt;a href=&quot;https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/&quot; target=&quot;_blank&quot;&gt;detailed instructional series&lt;/a&gt; on how to create and use a container This is a slightly different setup than he did. Instead of installing directly on, say, a laptop, I'm installing the container onto a server that I access via ssh.&lt;br /&gt;&lt;br /&gt;Three moving pieces: Laptop (me), Server (headless), Container (added to server)&lt;br /&gt;&lt;br /&gt;So, from Laptop, I ssh into Server normally.&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;On SERVER:&lt;br /&gt;sudo apt-get install lxc               # Install the container system&lt;br /&gt;sudo lxc-create -t ubuntu-cloud -n c1  # Download and install a 195MB cloud image of Ubuntu 14.10&lt;br /&gt;sudo lxc-start -n wp1 -d               # Boot the image in the background (name is 'wp1')&lt;br /&gt;sudo lxc-info -n wp1                   # Discover the IP of the image&lt;br /&gt;    Name:           c1&lt;br /&gt;    State:          RUNNING&lt;br /&gt;    IP:             10.0.3.201         # &amp;lt;-- Ooh, there is the IP&lt;br /&gt;ping 10.0.3.201                        # Check network connectivity on the container&lt;br /&gt;    PING 10.0.3.201 (10.0.3.201) 56(84) bytes of data.&lt;br /&gt;    64 bytes from 10.0.3.201: icmp_seq=1 ttl=64 time=0.081 ms&lt;br /&gt;    64 bytes from 10.0.3.201: icmp_seq=2 ttl=64 time=0.085 ms&lt;br /&gt;&lt;br /&gt;# Forward port 112233 to the container&lt;br /&gt;sudo iptables -t nat -A PREROUTING -p tcp -i eth0 --dport 112233 -j DNAT --to-destination 10.0.3.201:80&lt;br /&gt;sudo iptables -A FORWARD -p tcp -d 10.0.3.201 --dport 80 -m state --state NEW,ESTABLISHED,RELATED -j ACCEPT&lt;/pre&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;Set up LAMP and Wordpress within the container&lt;/h3&gt;&lt;br /&gt;The container is installed, started, and responds to ping.&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;On SERVER:&lt;br /&gt;sudo lxc-console -n wp1    # Login to the console of wp1 (username: ubuntu, password: ubuntu)&lt;/pre&gt;&lt;br /&gt;A couple words about the container.&lt;br /&gt;I'm going to skip the part where you would delete the 'ubuntu' user and add your own admin user and password. But you should do it.&lt;br /&gt;Also, two pieces of information you should have handy before going farther. &lt;br /&gt;&lt;ol&gt;&lt;li&gt;Server's IP address on the LAN (mine is 192.168.0.101)&lt;/li&gt;&lt;li&gt;The real, fully qualified domain name (freds_blog.fred.com) that readers on the internet will use&lt;/li&gt;&lt;/ol&gt;The FQDN will be used to generate the MySQL account for the blog, and the create the wordpress config file. The LAN address will be used to link to the same accounts.&lt;br /&gt;&lt;br /&gt;Special thanks to the Ubuntu community for putting together &lt;a href=&quot;https://help.ubuntu.com/community/WordPress&quot; target=&quot;_blank&quot;&gt;this fantastic tutorial&lt;/a&gt; about how to install wordpress in Ubuntu. &lt;br /&gt;&lt;br /&gt;&lt;pre&gt;# On CONTAINER&lt;br /&gt;sudo apt-get install mysql-server wordpress   # 49 packages, 28MB download&lt;/pre&gt;&lt;br /&gt;Let's jump over to Laptop for a moment and check that Server's port forwarding and Container's apache service are working: Open a browser window, and look for http://192.168.0.101:112233. You should get the apache default page. Success! Okay, now back to Container:&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;# On CONTAINER&lt;/pre&gt;&lt;pre&gt;sudo ln -s /usr/share/wordpress /var/www/html/wordpress   # Make Wordpress accessible from apache&lt;br /&gt;&lt;br /&gt;# Create mysql account, and link it to Wordpress&lt;br /&gt;sudo gzip -d /usr/share/doc/wordpress/examples/setup-mysql.gz&lt;br /&gt;sudo bash /usr/share/doc/wordpress/examples/setup-mysql -n freds_blog_fred_com freds_blog.fred.com  &lt;br /&gt;&lt;br /&gt;# Prevent a Wordpress error (can't locate config file) from within the LAN&lt;br /&gt;# by linking the LAN addr to existing FQDN config file&lt;br /&gt;sudo ln /etc/wordpress/config-freds_blog.fred.com.php /etc/wordpress/config-192.168.0.101.php&lt;br /&gt;&lt;br /&gt;exit&lt;br /&gt;&amp;lt;ctrl+a, q&amp;gt; to exit the console&lt;/pre&gt;&lt;br /&gt;&lt;br /&gt;&lt;h3&gt;Use Wordpress&lt;/h3&gt;&lt;br /&gt;The setup is complete. Since I'm on my LAN, I point my Laptop browser to http://192.168.1.101/wordpress/ and I get the Wordpress setup screen.&lt;br /&gt;&lt;br /&gt;Outside, on the big wide internet, I would point it to http://freds_blog.fred.com/wordpress/ (er, that's an example - you &lt;i&gt;already know&lt;/i&gt; that's not my real blog).&lt;br /&gt;&lt;br /&gt;Wordpress is ready for my data.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;float: right; margin-left: 1em; text-align: right;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-PrGHEjjmrVk/VJTqw4tQ2mI/AAAAAAAAA6Y/irZ3TexjACs/s1600/explode_1.gif&quot; style=&quot;clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;204&quot; src=&quot;http://1.bp.blogspot.com/-PrGHEjjmrVk/VJTqw4tQ2mI/AAAAAAAAA6Y/irZ3TexjACs/s1600/explode_1.gif&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;          Bye, Container!&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Destroying the container&lt;/h3&gt;&lt;br /&gt;This is one of the true joys of LXC &lt;br /&gt;&lt;br /&gt;&lt;pre&gt;# On SERVER&lt;br /&gt;sudo lxc-stop -n wp1&lt;br /&gt;sudo lxc-destroy -n wp1&lt;/pre&gt;&lt;br /&gt;&lt;br /&gt;And all the work is wiped out forever....&lt;br /&gt;&lt;br /&gt;Remember to clean up:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Uninstall lxc from the server&lt;/li&gt;&lt;li&gt;Delete the iptables rules on the server&lt;/li&gt;&lt;li&gt;Close the port on the router firewall&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;</content:encoded>
+	<dc:date>2014-12-20T03:24:58+00:00</dc:date>
+	<dc:creator>Ian</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-2703060415027607989.post-3615905999005003164">
+	<title>Ian Weisser: Say, what are you doing this afternoon?</title>
+	<link>http://cheesehead-techblog.blogspot.com/2014/12/say-what-are-you-doing-this-afternoon.html</link>
+	<content:encoded>&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;float: right; margin-left: 1em; text-align: right;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.paintinghere.org/UploadPic/Leonid%20Afremov/big/BUS%20STOP%20-%20UNDER%20THE%20RAIN.jpg&quot; style=&quot;clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;195&quot; src=&quot;http://www.paintinghere.org/UploadPic/Leonid%20Afremov/big/BUS%20STOP%20-%20UNDER%20THE%20RAIN.jpg&quot; width=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Bus Stop - Under The Rain by Leonid Afremov &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;Here's a happy little afternoon project for new users trying to play with a new &lt;br /&gt;language or script, and getting their feet in the open-source ecosystem.&lt;br /&gt;&lt;br /&gt;Your phone's handy weather app depends upon the goodwill of a for-profit data provider, and their often-opaque API (14 degrees? Where was it observed? When?) That's a shame because most data collection is paid for by you, the taxpayer.&lt;br /&gt;&lt;br /&gt;Let's take the profit-from-data out of that system. Several projects have tried to do this before (including libgweather), but each tried to do too much and replicate the one-data-provider-to-rule-them-all model. And most ran aground on that complexity.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;Here's where you come in&lt;/h2&gt;One afternoon, look up your weather service's online data sources. And knock together a script to publish them in a uniform format.&lt;br /&gt;&lt;br /&gt;Here's the one I did for the United States:&lt;br /&gt;&lt;a href=&quot;https://raw.githubusercontent.com/ian-weisser/data/master/metar.csv&quot; target=&quot;_blank&quot;&gt;Worldwide METAR observation sites&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://raw.githubusercontent.com/ian-weisser/data/master/radar.csv&quot; target=&quot;_blank&quot;&gt;US DOD and NOAA weather radars&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://raw.githubusercontent.com/ian-weisser/data/master/zone.csv&quot; target=&quot;_blank&quot;&gt;US Forecast/Alert zones&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-vIFtcltQPO0/VIyP8C2QzYI/AAAAAAAAA5g/hpDu4dUFwxM/s1600/double_rainbow.jpg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;133&quot; src=&quot;http://4.bp.blogspot.com/-vIFtcltQPO0/VIyP8C2QzYI/AAAAAAAAA5g/hpDu4dUFwxM/s1600/double_rainbow.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;li&gt;Looking for data on non-METAR (non-airport) observation stations, weather radar sites, and whatever forecast and alert areas your country uses.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Use the same format I did: Lat (deg.decimal), Lon (deg.decimal), Location Code, Long Name. Use the original source's data, even if it's wrong. Area and zones should use the lat/lon of the centroid. &lt;/li&gt;&lt;br /&gt;&lt;li&gt;The format is simple CSV, easy to parse and publish.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Publish on GitHub, for easy version control, permalinking, free storage, and uptime. &lt;/li&gt;&lt;br /&gt;&lt;li&gt;Here's the key: Your data must be automatically-updated. Regularly, your program must check the original source and update your published version. &lt;a href=&quot;http://cheesehead-techblog.blogspot.com/2014/12/how-to-set-up-automatic-github-uploads.html&quot; target=&quot;_blank&quot;&gt;How I did it&lt;/a&gt; with a cron job. Publish both the data and your method on GitHub.  &lt;/li&gt;&lt;br /&gt;&lt;li&gt;When you have published, drop me an e-mail so I can link to your data and source.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;If you do it right, one afternoon to setup your country's self-updating database. Not a bad little project, you learn a little, and you help make the world a better place. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;My country doesn't have online weather data&lt;/h2&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-qa8Ou1y0bd4/VIySILFr5wI/AAAAAAAAA50/augH0ZycK-0/s1600/jerusalem-palm-tre_2448489k.jpg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;124&quot; src=&quot;http://2.bp.blogspot.com/-qa8Ou1y0bd4/VIySILFr5wI/AAAAAAAAA50/augH0ZycK-0/s1600/jerusalem-palm-tre_2448489k.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/div&gt;Sorry to hear that. You're missing some great stuff.&lt;br /&gt;&lt;br /&gt;If you live in a country with a reasonably free press and reasonably fair elections, make a stink about it. You are probably already paying for it through taxes, why can't you have it?&lt;br /&gt;&lt;br /&gt;If you live somewhere else, then next time you have a revolution or coup, add 'open data' to the long list of needed reforms.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;/ul&gt;&lt;h2&gt;What will this accomplish?&lt;/h2&gt;This will create a free, sustainably updated, uniform, crowdsourced set of accurate worldwide data that will be easy to compile into a single global database. If you drop out, your online code will ensure another volunteer can step in.&lt;br /&gt;&lt;br /&gt;This is one fundamental tool that other free-weather projects have lacked. And any weather project can use this.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-eYjZqlixckg/VIyOsLmN4qI/AAAAAAAAA5U/kMOvbNm7-uI/s1600/clouds.jpg&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;116&quot; src=&quot;http://3.bp.blogspot.com/-eYjZqlixckg/VIyOsLmN4qI/AAAAAAAAA5U/kMOvbNm7-uI/s1600/clouds.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;The global database of locations is really small by most database standards. Small enough to easily fit on a phone. Small enough to be bundled with apps that can request data directly from original sources...once they can look up the correct source to use.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;How will this change the world?&lt;/h2&gt;It's about simple tools that make&lt;br /&gt; it easy to create free, cool software.&lt;br /&gt;And it's about ensuring free access to data you already paid for.&lt;br /&gt;&lt;br /&gt;Not bad for one afternoon's contribution.</content:encoded>
+	<dc:date>2014-12-13T19:28:27+00:00</dc:date>
+	<dc:creator>Ian</dc:creator>
+</item>
+<item rdf:about="tag:blogger.com,1999:blog-2703060415027607989.post-2432053774030148130">
+	<title>Ian Weisser: How to set up automatic Github uploads</title>
+	<link>http://cheesehead-techblog.blogspot.com/2014/12/how-to-set-up-automatic-github-uploads.html</link>
+	<content:encoded>&lt;h2&gt;Back to basics&lt;/h2&gt;For years, I have been &lt;a href=&quot;http://cheesehead-techblog.blogspot.com/2012/09/us-national-weather-service-info-feeds.html&quot; target=&quot;_blank&quot;&gt;playing with&lt;/a&gt; &lt;a href=&quot;http://cheesehead-techblog.blogspot.com/2009/06/xubuntu-desktop-wallpaper-from-website.html&quot; target=&quot;_blank&quot;&gt;US Weather&lt;/a&gt; &lt;a href=&quot;http://cheesehead-techblog.blogspot.com/2012/11/new-us-national-weather-service.html&quot; target=&quot;_blank&quot;&gt;Data&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;A couple years ago, I came up with a &lt;a href=&quot;http://cheesehead-techblog.blogspot.com/2012/11/new-us-national-weather-service.html&quot; target=&quot;_blank&quot;&gt;lookup server for US weather locations&lt;/a&gt;, and -of course- had all kinds of plans for how to expand it to more services and more countries.&lt;br /&gt;&lt;br /&gt;So, of course, it went nowhere.&lt;br /&gt;&lt;br /&gt;This week, I took a look at the issue again, and came up with a simple set of lookup tables (yes, a tiny database) to replace the server. It reduced the amount of code by about 70%, and it's finally in a maintainable, expandable form. It's simple, and ready for a few drive-by patches.&lt;br /&gt;&lt;br /&gt;Which leads to the next question...how to share it with the world?&lt;br /&gt;&lt;br /&gt;Well, in this decade, sharing software and data means putting it on GitHub.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;Creating the GitHub repositories&lt;/h2&gt;We have a Python 3 script that creates the database, another Python 3 example script that consumes the database, and the three CSV files that make up the database tables. Most consumers will probably just want the data for their own purposes - they really don't need the scripts (and it would be quite rude for millions of users to hit NOAA servers to produce their own databases each week)&lt;br /&gt;&lt;br /&gt;So I created two repositories on GitHub, one for the data and another for the optional scripts.&lt;br /&gt;&lt;br /&gt;If you haven't used GitHub, you first go online and create your account and create the repositories (with initial README file) in a web browser. Then:&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;cd /tmp&lt;br /&gt;git clone https://github.com/ian-weisser/data   # Create a clone of the online repository&lt;br /&gt;cd data&lt;/pre&gt;&lt;pre&gt;cp /home/somewhere/else/data/* ./               # Add existing data files into the local clone&lt;br /&gt;git add ./*                                     # Tell git to track the new data files&lt;br /&gt;git commit -m &quot;Add initial data&quot;&lt;br /&gt;git push origin master                          # Push the changes back to GitHub&lt;br /&gt;  Username for 'https://github.com':&lt;br /&gt;  Password for 'https://me@github.com': &lt;/pre&gt;&lt;pre&gt;cd /tmp &lt;/pre&gt;&lt;pre&gt;rm -rf /tmp/data                                # Clean up&lt;/pre&gt;&lt;br /&gt;Overall, it's pretty simple. For the next iteration:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;We must automate the upload credentials so it doesn't prompt for a username and password each time.&lt;/li&gt;&lt;li&gt;We must add a cron job that creates the data for upload.&lt;/li&gt;&lt;li&gt;Let's move this project from /tmp on my laptop to the server where it will live permanently. This also means that the server should pull the latest Python script...which is also hosted on GitHub.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;h2&gt;Let's setup the server:&lt;/h2&gt;&lt;br /&gt;&lt;pre&gt;sudo apt-get install git    # On this server, about 3 MB of download&lt;br /&gt;sudo apt-get install python3-httplib2  # Script dependency&lt;br /&gt;mkdir uploads&lt;br /&gt;cd uploads&lt;br /&gt;git clone https://github.com/ian-weisser/data          # Setup the local 'data' repository&lt;br /&gt;git clone https://github.com/ian-weisser/weather       # Setup the local 'software' repository&lt;br /&gt;weather/nws_database_creator.py                        # Use the script to update CSVs in ~/uploads/data&lt;br /&gt;cd data&lt;br /&gt;git config --global user.email &quot;my_email@example.com&quot;  # First time setup&lt;br /&gt;git config --global user.name &quot;My Name&quot;                # First time setup&lt;br /&gt;git config credential.helper store                     # First time using this repo setup&lt;br /&gt;git add -A&lt;br /&gt;git commit -m &quot;Test update&quot;&lt;br /&gt;git push origin master&lt;br /&gt;  Username for 'https://github.com': my-github-login-name   # First time using this repo setup&lt;br /&gt;  Password for 'https://my-github-login-name@github.com':   # First time using this repo setup&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;Automating the process&lt;/h2&gt;So now subsequently, without all the first time setup:&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;#!/bin/sh&lt;br /&gt;&lt;br /&gt;dir=/home/ian/uploads&lt;br /&gt;hub=&quot;https://github.com/ian-weisser&quot;&lt;br /&gt;now=$(/bin/date +%F)&lt;br /&gt;&lt;br /&gt;cd $dir/weather&lt;br /&gt;/usr/bin/git pull &quot;$hub&quot;/weather      # Update the database_creator script&lt;br /&gt;&lt;br /&gt;cd $dir/data&lt;br /&gt;/usr/bin/git pull &quot;$hub&quot;/data         # Need to pull to be able to push later&lt;br /&gt;&lt;br /&gt;$dir/weather/nws_database_creator.py  # Do the update&lt;br /&gt;/usr/bin/git add -A                   # Record any changes&lt;br /&gt;/usr/bin/git commit -m &quot;Scheduled update $now&quot;&lt;br /&gt;/usr/bin/git push origin master&lt;br /&gt;exit 0&lt;br /&gt;&lt;/pre&gt;&lt;br /&gt;&lt;br /&gt;And now we can run the shell script weekly from a user cron job:&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;5 6 * * 7 /home/ian/uploads/cron/weekly_weather &amp;gt; /home/ian/uploads/weather.log 2&amp;gt;&amp;amp;1&lt;/pre&gt;&lt;br /&gt;&lt;br /&gt;A couple of tests, and it works.&lt;br /&gt;&lt;br /&gt;It's completely automatic.&lt;br /&gt;&lt;br /&gt;Once a week, my server downloads the latest make-a-database script, builds the database, and uploads the database to GitHub for the world to use. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;h2&gt;The data&lt;/h2&gt;&lt;br /&gt;If you want to see the final product (the lat/lon lookup tables for US weather), you can get them at:&lt;br /&gt;&lt;a href=&quot;https://raw.githubusercontent.com/ian-weisser/data/master/metar.csv&quot;&gt;https://raw.githubusercontent.com/ian-weisser/data/master/metar.csv&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://raw.githubusercontent.com/ian-weisser/data/master/radar.csv&quot;&gt;https://raw.githubusercontent.com/ian-weisser/data/master/radar.csv&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://raw.githubusercontent.com/ian-weisser/data/master/zone.csv&quot;&gt;https://raw.githubusercontent.com/ian-weisser/data/master/zone.csv&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;They will, of course, be automatically updated weekly.</content:encoded>
+	<dc:date>2014-12-13T02:40:28+00:00</dc:date>
+	<dc:creator>Ian</dc:creator>
+</item>
+<item rdf:about="http://anthonyrhook.com/?p=12">
+	<title>Anthony Hook: vSphere CPU ready time</title>
+	<link>http://anthonyrhook.com/vsphere-cpu-ready-time/</link>
+	<content:encoded>&lt;p&gt;Bored, nothing to do, and checking out your performance metrics?  First off, use &lt;a href=&quot;http://www.vmware.com/products/vrealize-operations&quot; title=&quot;vROps&quot;&gt;VMware vRealize Operations (vROps, formerly vCOps)&lt;/a&gt;, and take up a new hobby in all your spare time; thank me later.  Still need to take a look because you’re troubleshooting a slow VM?  Concerned about if you’re oversubscribing your CPUs?  High kernel times?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://anthonyrhook.com/wp-content/uploads/2014/12/56936151.jpg&quot;&gt;&lt;img alt=&quot;Why can't I hold all of these metrics&quot; class=&quot;aligncenter wp-image-40 size-medium&quot; height=&quot;300&quot; src=&quot;http://anthonyrhook.com/wp-content/uploads/2014/12/56936151-225x300.jpg&quot; width=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A basic explanation of &lt;strong&gt;CPU Ready Time&lt;/strong&gt; is: how long is your virtual machine is waiting in line to use the CPU on the host?  There is a very acceptable percentage (in general, under 10%, more on that below), however oversubscribing will definitely cause you (or clients) headaches.  An example of when you have this problem is a generally slow VM, but task manager/TOP isn’t showing something eating up all your CPU, and all other metrics look fine.  Extreme cases will make the VM’s clock slow.  Perhaps high kernel time?  &lt;a href=&quot;http://vmtoday.com/2010/08/high-cpu-ready-poor-performance/&quot;&gt;Josh at vmtoday&lt;/a&gt; has an &lt;a href=&quot;http://b2ni443367y3wt3t91svwsbbky.wpengine.netdna-cdn.com/wp-content/uploads/sites/11/2010/08/highkerneltime.png&quot;&gt;image &lt;/a&gt;of this example on his very relevant post.&lt;/p&gt;
+&lt;p&gt;When you look at these graphs and see high numbers, don’t necessarily worry.  There’s a pretty easy formula to figure out what you’re looking at.  In the example I’m using below, I’m using the performance chart for the VM, realtime, which has a metric rollup time of 20 seconds.  Here’s how I got it to that, and what it looks like:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;figure class=&quot;wp-caption alignnone&quot; id=&quot;attachment_37&quot; style=&quot;width: 300px;&quot;&gt;&lt;a href=&quot;http://anthonyrhook.com/wp-content/uploads/2014/12/ChartOptions.png&quot;&gt;&lt;img alt=&quot;Performance Options&quot; class=&quot;wp-image-37 size-medium&quot; height=&quot;181&quot; src=&quot;http://anthonyrhook.com/wp-content/uploads/2014/12/ChartOptions-300x181.png&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;Performance Options&lt;/figure&gt;
+&lt;figure class=&quot;wp-caption alignnone&quot; id=&quot;attachment_38&quot; style=&quot;width: 300px;&quot;&gt;&lt;a href=&quot;http://anthonyrhook.com/wp-content/uploads/2014/12/exported.jpg&quot;&gt;&lt;img alt=&quot;Realtime CPU Ready&quot; class=&quot;wp-image-38 size-medium&quot; height=&quot;182&quot; src=&quot;http://anthonyrhook.com/wp-content/uploads/2014/12/exported-300x182.jpg&quot; width=&quot;300&quot; /&gt;&lt;/a&gt;Realtime CPU Ready&lt;/figure&gt;
+&lt;p&gt;If you’re looking at graphs of different timeframes, you want to use a separate number in the formula:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Realtime: &lt;strong&gt;20 seconds&lt;/strong&gt;&lt;em&gt; – We’re using this one in my example&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Past Day: 5 minutes &lt;strong&gt;(300 seconds)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Past Week: 30 minutes &lt;strong&gt;(1800 seconds)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Past Month: 2 hours &lt;strong&gt;(7200 seconds)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Past Year: 1 day &lt;strong&gt;(86400 seconds)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;(CPU summation value / (&amp;lt;Chart Interval in Seconds&amp;gt; * 1000)) * 100 = % CPU ready&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;It’s probably hard to see, but I’m interested in the VM average of 547 at a realtime (20 second) interval.  I toss those numbers into the formula:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;(&lt;strong&gt;547&lt;/strong&gt; / (&lt;strong&gt;20 &lt;/strong&gt;seconds * 1000)) * 100 = &lt;strong&gt;2.73% CPU Ready&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;With only 2.73% CPU ready time, I can see this VM isn’t having any CPU problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.vkernel.com/files/docs/white-papers/demystifying-cpu-ready.pdf&quot;&gt;Some &lt;/a&gt;different &lt;a href=&quot;http://vmdamentals.com/?p=44&quot;&gt;resources &lt;/a&gt;concur &lt;a href=&quot;http://vmtoday.com/2013/01/cpu-ready-revisted-quick-reference-charts/&quot;&gt;that &lt;/a&gt;up to 10% is acceptable, but something over 10% should require some reviewing.  Keep in mind the time-frame you’re looking at this:  realtime during high production times may not be the most accurate for an overview.  If that’s the case, check out a daily or weekly average instead.&lt;/p&gt;
+&lt;p&gt;Additional resources on this topic including all about using CPU affinity:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.vmware.com/pdf/Perf_Best_Practices_vSphere5.5.pdf&quot;&gt;Performance Best Practices for VMware vSphere 5.5&lt;/a&gt; (PDF)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&amp;amp;cmd=displayKC&amp;amp;externalId=2002181&quot;&gt;VMware KB 2002181: Converting Between CPU Summation and CPU Ready Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&amp;amp;cmd=displayKC&amp;amp;externalId=2001003&quot;&gt;VMware KB 2001003: Troubleshooting ESXi Virtual Machine Performance Issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&amp;amp;cmd=displayKC&amp;amp;externalId=2001003&quot;&gt;VMware Whitepaper: CPU Scheduler in vSphere 5.1(PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://frankdenneman.nl/2011/01/11/beating-a-dead-horse-using-cpu-affinity/&quot;&gt;Beating a dead horse – using CPU affinity – Frank Denneman&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded>
+	<dc:date>2014-12-08T21:07:52+00:00</dc:date>
+	<dc:creator>anthony</dc:creator>
+</item>
+<item rdf:about="http://anthonyrhook.com/?p=26">
+	<title>Anthony Hook: On Brown Bags</title>
+	<link>http://anthonyrhook.com/on-brown-bags/</link>
+	<content:encoded>&lt;p&gt;I’m a part of &lt;a href=&quot;http://professionalvmware.com&quot; target=&quot;_blank&quot; title=&quot;professionalvmware.com&quot;&gt;professionalvmware.com&lt;/a&gt;‘s vBrownBag team.  I work with awesome people to bring in experts a broad range of topics, from virtualization, networking, datacenter technology, and more.  They are free, and recorded so you can watch them anywhere!  You can read more about it &lt;a href=&quot;http://professionalvmware.com&quot; target=&quot;_blank&quot; title=&quot;here&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This isn’t directly related to the vBrownBag community, but more the concept of the “Brown Bag” in general.  Wikipedia has a &lt;a href=&quot;http://en.wikipedia.org/wiki/Brown-bag_seminar&quot; target=&quot;_blank&quot; title=&quot;short and sweet article&quot;&gt;short-and-sweet article&lt;/a&gt; on the topic if you aren’t familiar.&lt;/p&gt;
+&lt;p&gt;Before I knew the wonder that is the vBrownBag community, I had started a Brown Bag series at my workplace.&lt;/p&gt;
+&lt;p&gt;In doing managed services, we have some knowledge separation between our network engineer (installation engineers) and the managed service team (helpdesk and NOC). Lunch is a perfect time to talk with subject-matter experts without getting in the way of daily work. What’s better than free learning? &lt;em&gt;okay, free beer, but I digress…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This wasn’t just limited to technical topics, but also open to other departments (Sales–&amp;gt;Sales, Technical–&amp;gt;Sales, etc).&lt;/p&gt;
+&lt;p&gt;Fast-forward a year and a half; I have presented the majority of the Brown Bags. I made them interactive and fun, and was met with rave reviews. People initially sounded excited to both share and learn, but hardly anyone had follow-through for both presenting and attendance.&lt;/p&gt;
+&lt;p&gt;I’ve tried incentives like free pizza, reminders, spoon-fed ideas for others to present about (almost to the point of assigning topics), but I wanted it to be strictly on a volunteer-only basis.&lt;/p&gt;
+&lt;p&gt;The concept was well received and encouraged by management, but just didn’t have the traction I expected with any of the teams I had expected.  Low presenter diversity, along with a lack of attendance is really holding my spirits low.&lt;/p&gt;
+&lt;p&gt;Has anyone started something similar in their workplace?  Do I need to be more patient and wait for traction to somehow pick up?  Perhaps I need to understand that not everyone wants to grow or share their knowledge like this.  Right now, I’ve resolved to step back for an undetermined period and see if anyone else steps up.&lt;/p&gt;</content:encoded>
+	<dc:date>2014-11-14T02:05:57+00:00</dc:date>
+	<dc:creator>anthony</dc:creator>
 </item>
 
 </rdf:RDF>
