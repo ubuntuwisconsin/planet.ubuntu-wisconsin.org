@@ -61,6 +61,10 @@ img.face {
 	margin-top: -3em;
 }
 
+#main {
+	margin: 100px 100px 100px 100px;
+}
+
 .entry {
 	margin-bottom: 2em;
 }
